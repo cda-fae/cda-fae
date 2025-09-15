@@ -31,14 +31,6 @@ nav:
     - Microeconomía: ramos/microeconomia.md
     - Macroeconomía: ramos/macroeconomia.md
   - Tutorías:
-      - Programacion:
-          - General: tutorias/programacion/index.md
-          - Tutores:
-              - Tutor 1: tutorias/programacion/tutores/tutor1.md
-              - Tutor 2: tutorias/programacion/tutores/tutor2.md
-              - Tutor 3: tutorias/programacion/tutores/tutor3.md
-              - Tutor 4: tutorias/programacion/tutores/tutor4.md
-              - Tutor 5: tutorias/programacion/tutores/tutor5.md
       - Matemáticas I:
           - General: tutorias/matematicas-1/index.md
           - Tutores:
@@ -143,7 +135,15 @@ nav:
               - Tutor 3: tutorias/microeconomia-2/tutores/tutor3.md
               - Tutor 4: tutorias/microeconomia-2/tutores/tutor4.md
               - Tutor 5: tutorias/microeconomia-2/tutores/tutor5.md
-  - Sobre mí: about.md
+      - Programación:
+          - General: tutorias/programacion/index.md
+          - Tutores:
+              - Tutor 1: tutorias/programacion/tutores/tutor1.md
+              - Tutor 2: tutorias/programacion/tutores/tutor2.md
+              - Tutor 3: tutorias/programacion/tutores/tutor3.md
+              - Tutor 4: tutorias/programacion/tutores/tutor4.md
+              - Tutor 5: tutorias/programacion/tutores/tutor5.md
+ - Sobre mí: about.md
 plugins:
   - search
 markdown_extensions:
