@@ -31,7 +31,7 @@ nav:
     - Microeconomía: ramos/microeconomia.md
     - Macroeconomía: ramos/macroeconomia.md
   - Tutorías:
-      - Programación:
+      - Programacion:
           - General: tutorias/programacion/index.md
           - Tutores:
               - Tutor 1: tutorias/programacion/tutores/tutor1.md
