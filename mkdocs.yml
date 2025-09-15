@@ -143,7 +143,7 @@ nav:
               - Tutor 3: tutorias/programacion/tutores/tutor3.md
               - Tutor 4: tutorias/programacion/tutores/tutor4.md
               - Tutor 5: tutorias/programacion/tutores/tutor5.md
- - Sobre mí: about.md
+  - Sobre mí: about.md
 plugins:
   - search
 markdown_extensions:
