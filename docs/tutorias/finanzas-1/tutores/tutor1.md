@@ -3,7 +3,7 @@
   
 **Año:** 2025 
 
-**Contacto:** **Contacto:** [alvaro.gatica@mail.udp.cl](mailto:alvaro.gatica@mail.udp.cl?subject=Consulta%20Tutor%C3%ADas%20Finanzas%20I)
+**Contacto:** [alvaro.gatica1@mail.udp.cl](mailto:alvaro.gatica1@mail.udp.cl?subject=Consulta%20Tutor%C3%ADas%20Finanzas%20I)
 
 **LinkedIn:** https://www.linkedin.com/in/alvarogatica/
   
