@@ -20,6 +20,6 @@ especialmente en temas financieros y económicos que suelen representar mayores 
 ---
 
 ## Círculos / Material
-- [Guía de Finanzas I (PDF)](../../../../assets/pdf/finanzas1/Finanzas_I-12.pdf)
+- [Guía de Finanzas I (PDF)](../../../assets/pdf/finanzas1/Finanzas_I-12.pdf)
 - (Links a notebooks / recursos)
 
