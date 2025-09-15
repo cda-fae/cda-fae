@@ -1,9 +1,12 @@
 # Alvaro Gatica — Finanzas I
 
   
-**Año:** 2025  
+**Año:** 2025 
+
 **Contacto:** **Contacto:** [alvaro.gatica@mail.udp.cl](mailto:alvaro.gatica@mail.udp.cl?subject=Consulta%20Tutor%C3%ADas%20Finanzas%20I)
-**LinkedIn:** https://www.linkedin.com/in/alvarogatica/  
+
+**LinkedIn:** https://www.linkedin.com/in/alvarogatica/
+  
 **WhatsApp (grupo o directo):** _(opcional)_
 
 ## Presentación
@@ -17,6 +20,6 @@ especialmente en temas financieros y económicos que suelen representar mayores 
 ---
 
 ## Círculos / Material
-- (Sube PDFs a `docs/assets/` y enlaza aquí)
+- [Guía de Finanzas I (PDF)](../../../../assets/pdf/finanzas1/Finanzas_I-12.pdf)
 - (Links a notebooks / recursos)
 
