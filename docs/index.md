@@ -1,8 +1,19 @@
 
-# Bienvenido 👋
+# Estimados estudiantes, 👋
 
-Este sitio reúne contenidos de **ramos**: apuntes, pautas, y material de ayudantía.
-Usa el menú de la izquierda para navegar.
+Les damos la más cordial bienvenida a esta plataforma, creada con el propósito de apoyar en el proceso de aprendizaje
+universitario mediante la disposicíon de material de calidad y de facil acceso.
 
-!!! tip "Sugerencia"
-    Este sitio está hecho con **MkDocs + Material** y se publica con **GitHub Pages**.
+En este espacio podrán encontrar:
+
+* 📚  Ayudantías acompañadas de sus respectivos solucionarios.
+* 🖌️  Material de estudio cuidadosamente organizado para reforzar los contenidos de los cursos.
+* 🤝  Circulos de Aprendizaje (CDA): Una iniciativa academica en la que tutores, estudiantes de altas capacidades, comparten sus conocimientos y recursos en asignaturas complejas.
+
+Nuestra misión es que esta página se convierta en un punto de encuentro académico, que fomente la colaboración, el estudio autónomo y la excelencia en la formación.
+
+Los invitamos a explorar los contenidos, utilizarlos como apoyo en sus estudios y aprovechar al maximo los recursos aquí disponibles.
+
+
+
+
