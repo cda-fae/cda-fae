@@ -1,0 +1,39 @@
+
+site_name: Contenidos UDP
+site_description: Repositorio de apuntes y ayudantías
+site_url: https://<tu-usuario>.github.io/udp-cursos
+theme:
+  name: material
+  features:
+    - navigation.instant
+    - navigation.sections
+    - navigation.expand
+    - content.code.copy
+    - search.highlight
+    - search.suggest
+  language: es
+nav:
+  - Inicio: index.md
+  - Ramos:
+    - Econometría: ramos/econometria.md
+    - Microeconomía: ramos/microeconomia.md
+    - Macroeconomía: ramos/macroeconomia.md
+  - Sobre mí: about.md
+plugins:
+  - search
+markdown_extensions:
+  - admonition
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.tasklist
+  - pymdownx.superfences
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/<tu-usuario>
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/<tu-usuario>
