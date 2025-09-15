@@ -46,6 +46,10 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/<tu-usuario>
-    - icon: fontawesome/brands/x-twitter
-      link: https://x.com/<tu-usuario>
+      link: https://github.com/Lucho-Pizarro/Udp-Cursos
+    - icon: fontawesome/brands/linkedin
+      link: www.linkedin.com/in/ignacio-pizarro17
+    - icon: fontawesome/brands/whatsapp
+      link: https://chat.whatsapp.com/HsRUIc4nSjg3zlM19VKPLe?mode=ems_copy_t
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/alvarogatica/ 
