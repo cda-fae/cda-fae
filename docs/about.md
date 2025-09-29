@@ -1,7 +1,7 @@
 
 # Sobre nosotros
 
-Las Comunidades de Aprendizaje (CDA) en la Facultad de Administración y Economía (FAE) de la UDP son espacios de apoyo mutuo y colaboración para estudiantes, profesores y la comunidad en general, centrados en el desarrollo de habilidades y el aprendizaje colectivo.  
+Las **Comunidades de Aprendizaje (CDA)** en la **Facultad de Administración y Economía (FAE)** de la **UDP** son espacios de apoyo mutuo y colaboración para estudiantes, profesores y la comunidad en general, centrados en el desarrollo de habilidades y el aprendizaje colectivo.  
 
 Nuestro objetivo es crear un espacio donde el conocimiento no solo se transmita, sino que también construya comunidad, potencie habilidades y fomente la excelencia académica compartida.  
 
