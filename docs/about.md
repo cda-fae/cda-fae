@@ -16,14 +16,14 @@ Esta plataforma nació gracias a la iniciativa de **Álvaro Gatica** y **Luis Pi
 <table>
 <tr>
 <td align="center" width="50%">
-  <img src="images/Macarena Cordova.JPG" width="220"><br>
+  <img src="../images/Macarena Cordova.JPG" width="220"><br>
   <strong>Macarena Córdova</strong><br>
   Directora CDA
 </td>
 <td align="center" width="50%">
-  <img src="images/Carolina Segovia.JPG" width="220"><br>
+  <img src="../images/Carolina Segovia.JPG" width="220"><br>
   <strong>Carolina Segovia</strong><br>
-  Cordinadora CDA
+  Codirectora CDA
 </td>
 </tr>
 </table>
@@ -31,12 +31,12 @@ Esta plataforma nació gracias a la iniciativa de **Álvaro Gatica** y **Luis Pi
 <table>
 <tr>
 <td align="center" width="50%">
-  <img src="images/Luis Pizarro.JPG" width="220"><br>
+  <img src="../images/Luis Pizarro.JPG" width="220"><br>
   <strong>Luis Pizarro</strong><br>
   Productor del sitio
 </td>
 <td align="center" width="50%">
-  <img src="images/Alvaro Gatica.JPG" width="220"><br>
+  <img src="../images/Alvaro Gatica.JPG" width="220"><br>
   <strong>Álvaro Gatica</strong><br>
   Productor del sitio
 </td>
