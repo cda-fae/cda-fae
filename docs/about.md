@@ -1,8 +1,6 @@
 
 # Sobre nosotros
 
-# Sobre nosotros
-
 Los **Círculos de Aprendizaje (CDA)** son una iniciativa orientada a fortalecer la formación académica de los estudiantes mediante el trabajo colaborativo y el apoyo entre pares.  
 
 Nuestro objetivo es crear un espacio donde el conocimiento no solo se transmita, sino que también construya comunidad, potencie habilidades y fomente la excelencia académica compartida.  
@@ -16,12 +14,12 @@ Esta plataforma nació gracias a la iniciativa de **Álvaro Gatica** y **Luis Pi
 <table>
 <tr>
 <td align="center" width="50%">
-  <img src="../images/Macarena Cordova.JPG" width="220"><br>
+  <img src="../images/Macarena Cordova.JPG" height="300"><br>
   <strong>Macarena Córdova</strong><br>
   Directora CDA
 </td>
 <td align="center" width="50%">
-  <img src="../images/Carolina Segovia.JPG" width="220"><br>
+  <img src="../images/Carolina Segovia.JPG" height="300"><br>
   <strong>Carolina Segovia</strong><br>
   Codirectora CDA
 </td>
@@ -31,18 +29,17 @@ Esta plataforma nació gracias a la iniciativa de **Álvaro Gatica** y **Luis Pi
 <table>
 <tr>
 <td align="center" width="50%">
-  <img src="../images/Luis Pizarro.JPG" width="220"><br>
+  <img src="../images/Luis Pizarro.JPG" height="300"><br>
   <strong>Luis Pizarro</strong><br>
   Productor del sitio
 </td>
 <td align="center" width="50%">
-  <img src="../images/Alvaro Gatica.JPG" width="220"><br>
+  <img src="../images/Alvaro Gatica.JPG" height="300"><br>
   <strong>Álvaro Gatica</strong><br>
   Productor del sitio
 </td>
 </tr>
 </table>
-
 
 
 
