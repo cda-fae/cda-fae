@@ -34,28 +34,28 @@ nav:
       - Matemáticas I:
           - General: tutorias/matematicas-1/index.md
           - Tutores:
-              - Tutor 1: tutorias/matematicas-1/tutores/tutor1.md
-              - Tutor 2: tutorias/matematicas-1/tutores/tutor2.md
-              - Tutor 3: tutorias/matematicas-1/tutores/tutor3.md
-              - Tutor 4: tutorias/matematicas-1/tutores/tutor4.md
-              - Tutor 5: tutorias/matematicas-1/tutores/tutor5.md 
-              - Tutor 6: tutorias/matematicas-1/tutores/tutor6.md
-              - Tutor 7: tutorias/matematicas-1/tutores/tutor7.md
-              - Tutor 8: tutorias/matematicas-1/tutores/tutor8.md
-              - Tutor 9: tutorias/matematicas-1/tutores/tutor9.md
+              - Javiera Morgado: tutorias/matematicas-1/tutores/tutor1.md
+              - Marcela Robles: tutorias/matematicas-1/tutores/tutor2.md
+              - Abraham Huerta: tutorias/matematicas-1/tutores/tutor3.md
+              - Camila Gonzalez: tutorias/matematicas-1/tutores/tutor4.md
+              - Melissa Borgoño: tutorias/matematicas-1/tutores/tutor5.md 
+              - Francisco Ulloa: tutorias/matematicas-1/tutores/tutor6.md
+              - Patricio Torres: tutorias/matematicas-1/tutores/tutor7.md
+              - Almendra Reyes: tutorias/matematicas-1/tutores/tutor8.md
+              - Maximiliano Stuardo: tutorias/matematicas-1/tutores/tutor9.md
               - Tutor 10: tutorias/matematicas-1/tutores/tutor10.md
       - Matemáticas II:
           - General: tutorias/matematicas-2/index.md
           - Tutores:
-              - Tutor 1: tutorias/matematicas-2/tutores/tutor1.md
-              - Tutor 2: tutorias/matematicas-2/tutores/tutor2.md
-              - Tutor 3: tutorias/matematicas-2/tutores/tutor3.md
-              - Tutor 4: tutorias/matematicas-2/tutores/tutor4.md
-              - Tutor 5: tutorias/matematicas-2/tutores/tutor5.md
-              - Tutor 6: tutorias/matematicas-2/tutores/tutor6.md
-              - Tutor 7: tutorias/matematicas-2/tutores/tutor7.md
-              - Tutor 8: tutorias/matematicas-2/tutores/tutor8.md
-              - Tutor 9: tutorias/matematicas-2/tutores/tutor9.md
+              - Javiera Morgado: tutorias/matematicas-2/tutores/tutor1.md
+              - Francisco Ulloa: tutorias/matematicas-2/tutores/tutor2.md
+              - Luis Briceño: tutorias/matematicas-2/tutores/tutor3.md
+              - Camila Gonzalez: tutorias/matematicas-2/tutores/tutor4.md
+              - Dhalmar Ovando: tutorias/matematicas-2/tutores/tutor5.md
+              - Patricio Torres: tutorias/matematicas-2/tutores/tutor6.md
+              - Melissa Borgoño: tutorias/matematicas-2/tutores/tutor7.md
+              - Daniel de la Fuente: tutorias/matematicas-2/tutores/tutor8.md
+              - Antonia Soto: tutorias/matematicas-2/tutores/tutor9.md
               - Tutor 10: tutorias/matematicas-2/tutores/tutor10.md
       - Matemáticas III:
           - General: tutorias/matematicas-3/index.md
