@@ -21,7 +21,7 @@ Esta plataforma nació gracias a la iniciativa de **Álvaro Gatica** y **Luis Pi
 <td align="center" width="50%">
   <img src="../images/Carolina Segovia.JPG" height="300"><br>
   <strong>Carolina Segovia</strong><br>
-  Codirectora CDA
+  Cordinadora CDA
 </td>
 </tr>
 </table>
