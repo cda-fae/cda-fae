@@ -38,7 +38,12 @@ nav:
               - Tutor 2: tutorias/matematicas-1/tutores/tutor2.md
               - Tutor 3: tutorias/matematicas-1/tutores/tutor3.md
               - Tutor 4: tutorias/matematicas-1/tutores/tutor4.md
-              - Tutor 5: tutorias/matematicas-1/tutores/tutor5.md
+              - Tutor 5: tutorias/matematicas-1/tutores/tutor5.md 
+              - Tutor 6: tutorias/matematicas-1/tutores/tutor6.md
+              - Tutor 7: tutorias/matematicas-1/tutores/tutor7.md
+              - Tutor 8: tutorias/matematicas-1/tutores/tutor8.md
+              - Tutor 9: tutorias/matematicas-1/tutores/tutor9.md
+              - Tutor 10: tutorias/matematicas-1/tutores/tutor10.md
       - Matemáticas II:
           - General: tutorias/matematicas-2/index.md
           - Tutores:
@@ -47,6 +52,11 @@ nav:
               - Tutor 3: tutorias/matematicas-2/tutores/tutor3.md
               - Tutor 4: tutorias/matematicas-2/tutores/tutor4.md
               - Tutor 5: tutorias/matematicas-2/tutores/tutor5.md
+              - Tutor 6: tutorias/matematicas-2/tutores/tutor6.md
+              - Tutor 7: tutorias/matematicas-2/tutores/tutor7.md
+              - Tutor 8: tutorias/matematicas-2/tutores/tutor8.md
+              - Tutor 9: tutorias/matematicas-2/tutores/tutor9.md
+              - Tutor 10: tutorias/matematicas-2/tutores/tutor10.md
       - Matemáticas III:
           - General: tutorias/matematicas-3/index.md
           - Tutores:
