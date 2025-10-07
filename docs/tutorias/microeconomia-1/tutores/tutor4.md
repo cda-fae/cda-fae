@@ -1,5 +1,3 @@
-# Tutor 4
-
 # Maximiliano Stuardo — Microeconomia I
 
 **Nombre:** Maximiliano Stuardo
