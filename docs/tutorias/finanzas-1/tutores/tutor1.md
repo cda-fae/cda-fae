@@ -5,7 +5,7 @@
 
 **Contacto:** [alvaro.gatica1@mail.udp.cl](mailto:alvaro.gatica1@mail.udp.cl?subject=Consulta%20Tutor%C3%ADas%20Finanzas%20I)
 
-**LinkedIn:** https://www.linkedin.com/in/alvarogatica/
+**LinkedIn:** [LinkedIn Alvaro Gatica](https://www.linkedin.com/in/alvarogatica/)
   
 **WhatsApp (grupo o directo):** _(opcional)_
 
