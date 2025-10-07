@@ -4,9 +4,9 @@
 
 **Año:** 2025.2  
 
-**Contacto:** <span style="color:#d32f2f;">maximiliano.stuardo1@mail.udp.cl</span>  
+**Contacto:** [maximiliano.stuadro1@mail.udp.cl](mailto:maximiliano.stuardo1@mail.udp.cl?subject=Consulta%20Tutor%C3%ADas%Tutoria%20I)
 
-**LinkedIn:** https://www.linkedin.com/in/maximiliano-stuardo-marticorena-089395281/
+**LinkedIn:**[Perfil Maximiliano](https://www.linkedin.com/in/maximiliano-stuardo-marticorena-089395281/)
 
 **WhatsApp (grupo o directo):** _opcional_
 
