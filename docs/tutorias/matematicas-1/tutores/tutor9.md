@@ -26,11 +26,11 @@ Viernes: 8:30 - 17:20
 
 ## Círculos / Material
 
-- *(Sube PDFs a `docs/assets/` y enlaza aquí)*  
-  - [Guía 1 (PDF)](../../../assets/guia-1.pdf)
-  - [Guía 2 (PDF)](../../../assets/guia-2.pdf)
+- *(Sube PDF (Proximamente)*  
+  - [Guía 1 (PDF)]
+  - [Guia 2 (PDF)]
 
-- *(Links a notebooks / recursos)*  
-  - [Notebook 1](https://ejemplo.com/notebook1)
-  - [Recurso extra](https://ejemplo.com/recurso)
+- *(Links a capsulas (proximamente ) )*  
+  - Capsula 2
+  - Capsula 1
 
