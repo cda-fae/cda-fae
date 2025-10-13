@@ -1,7 +1,7 @@
 
 site_name: Contenidos UDP
 site_description: Repositorio de apuntes y ayudantías
-site_url: https://udp-cursos.github.io/Udp-Cursos/
+site_url: https://cda-fae.github.io/Udp-Cursos/
 theme:
   name: material
   features:
