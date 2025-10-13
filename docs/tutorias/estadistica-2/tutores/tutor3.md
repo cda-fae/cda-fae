@@ -1,6 +1,6 @@
-# Catalina Martines — Estadística II
+# Catalina Martinez — Estadística II
 
-**Nombre:** Catalina Martines 
+**Nombre:** Catalina Martinez 
 
 **Año:** 2025.2
 
