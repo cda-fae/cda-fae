@@ -28,5 +28,5 @@ Viernes: 13:00-14:20
 
 ## Círculos / Material
 
-- 📁 [Carpeta de materiales – Google Drive](https://drive.google.com/drive/folders/1WFp4ldhImFr4tzkxZXwZocgNhg8WXnQ8?usp=sharing){:target="_blank" rel="noopener"}
+- 📁 [Carpeta de materiales – Google Drive](https://drive.google.com/drive/folders/1WFp4ldhImFr4tzkxZXwZocgNhg8WXnQ8?usp=sharing)
 
