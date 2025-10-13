@@ -1,15 +1,32 @@
-# Ficha Tutor 1 — Estadística II
+# Martina Ramirez — Estadística II
 
-**Nombre:** _(por completar)_  
-**Año:** _(por completar)_  
-**Contacto:** [correo@ejemplo.cl](mailto:correo@ejemplo.cl)  
-**LinkedIn:** _(opcional)_  
-**WhatsApp (grupo o directo):** _(opcional)_
+**Nombre:**  Martina Ramirez
+  
+**Año:** 2025.2
+
+**Contacto:** -
+
+**LinkedIn:**  [LinkedIn](https://www.linkedin.com/checkpoint/challengesV3/AQGsmDRaJgg0pgAAAZnLPakt6yG7TGuLWw_l4TXE_3om0Ie2jBczGV3LZKtT3x-_k7UGOwCDlUghxue46AgOPghuJLPcOQ)
+
+**WhatsApp (grupo o directo): -
 
 ## Presentación
-Breve descripción del tutor, enfoque de la tutoría y experiencia.
+Mi nombre es Martina Ramirez, soy estudiante de cuarto año de Ingenieria Comercial y curso la mención economía. Enseñar es algo que me mueve profundamente, ver que otros pueden aprender con mi ayuda y aportar un granito de arena en la formación profesional de distintos estudiantes es aquello a lo que responde mi motivación de estar aquí.
+
+Horarios disponibles: 
+
+LUNES 10-11.20 / 11.30-12.50
+
+MARTES 14.30 - 15.50
+
+MIERCOLES 11.30 - 12.50
+
+JUEVES 13.00 - 14.30
+
+VIERNES 11.30 - 12.50
+
+* Todos los días puedo online a partir de las 20.00 hrs
+
 
 ## Círculos / Material
-- (Sube PDFs a `docs/assets/` y enlaza aquí)
-- (Links a notebooks / recursos)
-
+-   📁 [Carpeta de materiales – Google Drive](https://drive.google.com/drive/folders/1lfMRxxdM4UbWPq0lQ-xqqmUI-fAehjGn?usp=sharing)
