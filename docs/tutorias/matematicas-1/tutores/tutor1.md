@@ -4,9 +4,9 @@
 
 **Año:** 2025.2 
 
-**Contacto:** [correo@ejemplo.cl](mailto:correo@ejemplo.cl)  
+**Contacto:** [javiera.morgado_e@mail.udp.cl](mailto:javiera.morgado_e@mail.udp.cl?subject=Consulta%20Tutor%C3%ADas%20matematicasI%20I)  
 
-**LinkedIn:** _(opcional)_  
+**LinkedIn:** - 
 
 **WhatsApp (grupo o directo):** -
 
