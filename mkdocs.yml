@@ -88,10 +88,10 @@ nav:
         # - General: tutorias/estadistica-1/index.md
           - Tutores:
               - Martina Ramirez: tutorias/estadistica-1/tutores/tutor1.md
-              - Patricio Torres: tutorias/estadistica-1/tutores/tutor2.md
-              - Camila Gonzalez: tutorias/estadistica-1/tutores/tutor3.md
-              - Tutor 4: tutorias/estadistica-1/tutores/tutor4.md
-              - Tutor 5: tutorias/estadistica-1/tutores/tutor5.md
+            # - Patricio Torres: tutorias/estadistica-1/tutores/tutor2.md
+            # - Camila Gonzalez: tutorias/estadistica-1/tutores/tutor3.md
+            # - Tutor 4: tutorias/estadistica-1/tutores/tutor4.md
+            # - Tutor 5: tutorias/estadistica-1/tutores/tutor5.md
       - Estadística II:
         # - General: tutorias/estadistica-2/index.md
           - Tutores:
