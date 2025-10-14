@@ -25,10 +25,10 @@ theme:
   favicon: images/udp_logo.png
 nav:
   - Inicio: index.md
-  - Ramos:
-    - Econometría: ramos/econometria.md
-    - Microeconomía: ramos/microeconomia.md
-    - Macroeconomía: ramos/macroeconomia.md
+# - Ramos:
+  # - Econometría: ramos/econometria.md
+  # - Microeconomía: ramos/microeconomia.md
+  # - Macroeconomía: ramos/macroeconomia.md
   - Circulos de Aprendizaje:
       - Matemáticas I:
         # - General: tutorias/matematicas-1/index.md
