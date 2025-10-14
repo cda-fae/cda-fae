@@ -111,16 +111,16 @@ nav:
       - Macroeconomía I:
         # - General: tutorias/macroeconomia-1/index.md
           - Tutores:
-              - Javiera Gonzalez: tutorias/macroeconomia-1/tutores/tutor1.md
-              - Antonia Rioseco: tutorias/macroeconomia-1/tutores/tutor2.md
+            # - Javiera Gonzalez: tutorias/macroeconomia-1/tutores/tutor1.md
+            # - Antonia Rioseco: tutorias/macroeconomia-1/tutores/tutor2.md
               - Joakina Quezada: tutorias/macroeconomia-1/tutores/tutor3.md
               - Dhalmar Ovando: tutorias/macroeconomia-1/tutores/tutor4.md
               - Marcela Robles: tutorias/macroeconomia-1/tutores/tutor5.md
       - Macroeconomía II:
         # - General: tutorias/macroeconomia-2/index.md
           - Tutores:
-              - Patricio Torres: tutorias/macroeconomia-2/tutores/tutor1.md
-              - Javiera Gonzalez: tutorias/macroeconomia-2/tutores/tutor2.md
+            # - Patricio Torres: tutorias/macroeconomia-2/tutores/tutor1.md
+            # - Javiera Gonzalez: tutorias/macroeconomia-2/tutores/tutor2.md
               - Abraham Huerta: tutorias/macroeconomia-2/tutores/tutor3.md
             # - Tutor 4: tutorias/macroeconomia-2/tutores/tutor4.md
             # - Tutor 5: tutorias/macroeconomia-2/tutores/tutor5.md
@@ -128,7 +128,7 @@ nav:
         # - General: tutorias/microeconomia-1/index.md
           - Tutores:
               - Francisco Ulloa: tutorias/microeconomia-1/tutores/tutor1.md
-              - Almendra Reyes: tutorias/microeconomia-1/tutores/tutor2.md
+            # - Almendra Reyes: tutorias/microeconomia-1/tutores/tutor2.md
               - Joakina Quezada: tutorias/microeconomia-1/tutores/tutor3.md
               - Maximiliano Stuardo: tutorias/microeconomia-1/tutores/tutor4.md
             # - Tutor 5: tutorias/microeconomia-1/tutores/tutor5.md
@@ -136,7 +136,7 @@ nav:
         # - General: tutorias/microeconomia-2/index.md
           - Tutores:
               - Luis Briceño: tutorias/microeconomia-2/tutores/tutor1.md
-              - Patricio Torres: tutorias/microeconomia-2/tutores/tutor2.md
+            # - Patricio Torres: tutorias/microeconomia-2/tutores/tutor2.md
               - Maximiliano Stuardo: tutorias/microeconomia-2/tutores/tutor3.md
               - Abraham Huerta: tutorias/microeconomia-2/tutores/tutor4.md
             # - Tutor 5: tutorias/microeconomia-2/tutores/tutor5.md
@@ -146,8 +146,8 @@ nav:
               - Martina Ramirez: tutorias/programacion/tutores/tutor1.md
               - Maximiliano Stuardo: tutorias/programacion/tutores/tutor2.md
               - Camila Pasten: tutorias/programacion/tutores/tutor3.md
-              - Javiera Fuentes: tutorias/programacion/tutores/tutor4.md
-              - Sofia Urzua: tutorias/programacion/tutores/tutor5.md
+            # - Javiera Fuentes: tutorias/programacion/tutores/tutor4.md
+            # - Sofia Urzua: tutorias/programacion/tutores/tutor5.md
   - Sobre nosotros: about.md
 plugins:
   - search
