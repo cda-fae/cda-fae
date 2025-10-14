@@ -1,15 +1,34 @@
-# Ficha Tutor 3 — Macroeconomía I
+# Joakina Quezada - Macroeconomia I
 
-**Nombre:** _(por completar)_  
-**Año:** _(por completar)_  
-**Contacto:** [correo@ejemplo.cl](mailto:correo@ejemplo.cl)  
-**LinkedIn:** _(opcional)_  
-**WhatsApp (grupo o directo):** _(opcional)_
+**Nombre:** Joakina Quezada
+
+**Año:** 2025.2         
+
+**Contacto:**  [joakina.quezada@mail.udp.cl](mailto:joakina.quezada@mail.udp.cl?subject=Consulta%20Tutor%C3%ADas%20MacroeconomiaI%20I)
+
+**LinkedIn:** -         
+
+**WhatsApp:** -                          
 
 ## Presentación
-Breve descripción del tutor, enfoque de la tutoría y experiencia.
+Hola, mi nombre es Joakina Quezada, soy estudiante de cuarto semestre de Ingeniería Comercial en la Universidad Diego Portales.
+Me apasiona la economía, y he tenido la oportunidad de ser ayudante de verano de Microeconomía I, Actualmente soy ayudante de tres secciones de Microeconomía I y una de Macroeconomía I, lo que me ha permitido seguir aprendiendo y compartir lo que más me gusta del área.
+
+Mis horarios disponibles para solicitar un circulo son:
+
+LUNES 16:00 hrs
+
+MARTES 11:30 o 13:00 
+
+MIÉRCOLES 14:30 o 16:00
+
+JUEVES 14:30
+
+VIERNES 11:30 , 13:00 , 14:30 ,  16:00 
+
+
 
 ## Círculos / Material
-- (Sube PDFs a `docs/assets/` y enlaza aquí)
-- (Links a notebooks / recursos)
+
+- 📁 [Carpeta de materiales – Google Drive](https://drive.google.com/drive/folders/1wmfN9BZ0SYvihsP9AYnNnenPh9oCoE8F?usp=sharing)
 
