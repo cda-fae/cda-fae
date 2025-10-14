@@ -16,6 +16,15 @@ Me apasiona la economía, y he tenido la oportunidad de ser ayudante de verano d
 
 Mis horarios disponibles para solicitar un circulo son: 
 
+LUNES 16:00 hrs
+
+MARTES 11:30 o 13:00
+
+MIÉRCOLES 14:30 o 16:00
+
+JUEVES 14:30
+
+VIERNES 11:30 , 13:00 , 14:30 ,  16:00
 
 
 
