@@ -12,7 +12,7 @@
 
 ## Presentación
 
-Presentación personal: Hola! Mi nombre es Francisco Ulloa, soy estudiante de tercer año de la carrera ingeniería comercial. He sido ayudante de matemáticas I y realizado tutorías de este ramo junto a Matemáticas II y III. Actualmente soy tutor de Matemáticas I y II, y microeconomía I.
+Hola! Mi nombre es Francisco Ulloa, soy estudiante de tercer año de la carrera ingeniería comercial. He sido ayudante de matemáticas I y realizado tutorías de este ramo junto a Matemáticas II y III. Actualmente soy tutor de Matemáticas I y II, y microeconomía I.
 Me gusta mucho ayudar al estudiantado a comprender la materia desde una perspectiva más práctica para que así puedan gozar del aprendizaje y el camino que conlleva a esto.
 
 Los horarios disponibles que tengo para realizar cualquier círculo son:
