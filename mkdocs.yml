@@ -77,7 +77,7 @@ nav:
             # - Camila Gonzalez: tutorias/contabilidad-2/tutores/tutor2.md
     # - Econometría I:
         # - General: tutorias/econometria-1/index.md
-          - Tutores:
+        # - Tutores:
             # - Patricio Torres: tutorias/econometria-1/tutores/tutor1.md
             # - Isleby Figueroa: tutorias/econometria-1/tutores/tutor2.md
             # - Javiera Gonzalez: tutorias/econometria-1/tutores/tutor3.md
