@@ -44,18 +44,18 @@ nav:
               - Maximiliano Stuardo: tutorias/matematicas-1/tutores/tutor9.md
             # - Tutor 10: tutorias/matematicas-1/tutores/tutor10.md
       - Matemáticas II:
-          - General: tutorias/matematicas-2/index.md
+        # - General: tutorias/matematicas-2/index.md
           - Tutores:
               - Javiera Morgado: tutorias/matematicas-2/tutores/tutor1.md
               - Francisco Ulloa: tutorias/matematicas-2/tutores/tutor2.md
               - Luis Briceño: tutorias/matematicas-2/tutores/tutor3.md
-              - Camila Gonzalez: tutorias/matematicas-2/tutores/tutor4.md
+            # - Camila Gonzalez: tutorias/matematicas-2/tutores/tutor4.md
               - Dhalmar Ovando: tutorias/matematicas-2/tutores/tutor5.md
-              - Patricio Torres: tutorias/matematicas-2/tutores/tutor6.md
-              - Melissa Borgoño: tutorias/matematicas-2/tutores/tutor7.md
-              - Daniel de la Fuente: tutorias/matematicas-2/tutores/tutor8.md
+            # - Patricio Torres: tutorias/matematicas-2/tutores/tutor6.md
+            # - Melissa Borgoño: tutorias/matematicas-2/tutores/tutor7.md
+            # - Daniel de la Fuente: tutorias/matematicas-2/tutores/tutor8.md
               - Antonia Soto: tutorias/matematicas-2/tutores/tutor9.md
-              - Tutor 10: tutorias/matematicas-2/tutores/tutor10.md
+            # - Tutor 10: tutorias/matematicas-2/tutores/tutor10.md
       - Matemáticas III:
         # - General: tutorias/matematicas-3/index.md
           - Tutores:
