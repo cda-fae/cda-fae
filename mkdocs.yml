@@ -62,8 +62,8 @@ nav:
               - Dhalmar Ovando: tutorias/matematicas-3/tutores/tutor1.md
               - Luis Briceño: tutorias/matematicas-3/tutores/tutor2.md
               - Abraham Huerta: tutorias/matematicas-3/tutores/tutor3.md
-              - Patricio Torres: tutorias/matematicas-3/tutores/tutor4.md
-              - Tutor 5: tutorias/matematicas-3/tutores/tutor5.md
+            # - Patricio Torres: tutorias/matematicas-3/tutores/tutor4.md
+            # - Tutor 5: tutorias/matematicas-3/tutores/tutor5.md
       - Contabilidad I:
         # - General: tutorias/contabilidad-1/index.md
           - Tutores:
