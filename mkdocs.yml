@@ -101,7 +101,7 @@ nav:
             # - Tutor 4: tutorias/estadistica-2/tutores/tutor4.md
             # - Tutor 5: tutorias/estadistica-2/tutores/tutor5.md
       - Finanzas I:
-          - General: tutorias/finanzas-1/index.md
+        # - General: tutorias/finanzas-1/index.md
           - Tutores:
               - Álvaro Gatica: tutorias/finanzas-1/tutores/tutor1.md
               - Luis Briceño: tutorias/finanzas-1/tutores/tutor2.md
