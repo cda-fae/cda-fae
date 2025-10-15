@@ -23,6 +23,8 @@ theme:
         name: Cambiar a modo oscuro
   logo: images/udp_logo.png
   favicon: images/udp_logo.png
+extra_css:
+  - styles/udp_red.css
 nav:
   - Inicio: index.md
 # - Ramos:
