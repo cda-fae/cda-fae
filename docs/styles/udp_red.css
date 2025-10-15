@@ -1,16 +1,23 @@
-/* Rojo UDP (cambia el HEX por el oficial si lo tienes) */
+/* ----- Rojo institucional ----- */
 :root {
-  --md-primary-fg-color: #D50000;           /* barra superior, elementos primarios */
-  --md-primary-fg-color--light: #FF4D4D;    /* variantes claras / hover */
-  --md-primary-fg-color--dark:  #9A0007;    /* variante oscura */
-  --md-accent-fg-color:         #D50000;    /* acentos (botones, etc.) */
+  --udp-red: #D71920;
+  --udp-red-light: #FF5A5F;
+  --udp-red-dark: #990F14;
 }
 
-/* Modo oscuro */
+/* Tema claro */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: var(--udp-red);
+  --md-primary-fg-color--light: var(--udp-red-light);
+  --md-primary-fg-color--dark: var(--udp-red-dark);
+  --md-accent-fg-color: var(--udp-red);
+}
+
+/* Tema oscuro */
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color:        #FF2D2D;
-  --md-primary-fg-color--light: #FF6666;
-  --md-primary-fg-color--dark:  #C21807;
-  --md-accent-fg-color:         #FF2D2D;
+  --md-primary-fg-color: var(--udp-red);
+  --md-primary-fg-color--light: var(--udp-red-light);
+  --md-primary-fg-color--dark: var(--udp-red-dark);
+  --md-accent-fg-color: var(--udp-red);
 }
 
