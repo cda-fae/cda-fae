@@ -1,0 +1,16 @@
+/* Rojo UDP (cambia el HEX por el oficial si lo tienes) */
+:root {
+  --md-primary-fg-color: #D50000;           /* barra superior, elementos primarios */
+  --md-primary-fg-color--light: #FF4D4D;    /* variantes claras / hover */
+  --md-primary-fg-color--dark:  #9A0007;    /* variante oscura */
+  --md-accent-fg-color:         #D50000;    /* acentos (botones, etc.) */
+}
+
+/* Modo oscuro */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #FF2D2D;
+  --md-primary-fg-color--light: #FF6666;
+  --md-primary-fg-color--dark:  #C21807;
+  --md-accent-fg-color:         #FF2D2D;
+}
+
