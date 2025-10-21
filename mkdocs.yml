@@ -38,7 +38,7 @@ nav:
               - Javiera Morgado: tutorias/matematicas-1/tutores/tutor1.md
               - Marcela Robles: tutorias/matematicas-1/tutores/tutor2.md
               - Abraham Huerta: tutorias/matematicas-1/tutores/tutor3.md
-            # - Camila Gonzalez: tutorias/matematicas-1/tutores/tutor4.md
+              - Camila Gonzalez: tutorias/matematicas-1/tutores/tutor4.md
             # - Melissa Borgoño: tutorias/matematicas-1/tutores/tutor5.md 
               - Francisco Ulloa: tutorias/matematicas-1/tutores/tutor6.md
             # - Patricio Torres: tutorias/matematicas-1/tutores/tutor7.md
@@ -51,7 +51,7 @@ nav:
               - Javiera Morgado: tutorias/matematicas-2/tutores/tutor1.md
               - Francisco Ulloa: tutorias/matematicas-2/tutores/tutor2.md
               - Luis Briceño: tutorias/matematicas-2/tutores/tutor3.md
-            # - Camila Gonzalez: tutorias/matematicas-2/tutores/tutor4.md
+              - Camila Gonzalez: tutorias/matematicas-2/tutores/tutor4.md
               - Dhalmar Ovando: tutorias/matematicas-2/tutores/tutor5.md
             # - Patricio Torres: tutorias/matematicas-2/tutores/tutor6.md
             # - Melissa Borgoño: tutorias/matematicas-2/tutores/tutor7.md
@@ -77,7 +77,7 @@ nav:
         # - General: tutorias/contabilidad-2/index.md
         # - Tutores:
             # - Javiera Fuentes: tutorias/contabilidad-2/tutores/tutor1.md
-            # - Camila Gonzalez: tutorias/contabilidad-2/tutores/tutor2.md
+              - Camila Gonzalez: tutorias/contabilidad-2/tutores/tutor2.md
     # - Econometría I:
         # - General: tutorias/econometria-1/index.md
         # - Tutores:
@@ -91,7 +91,7 @@ nav:
           - Tutores:
               - Martina Ramirez: tutorias/estadistica-1/tutores/tutor1.md
             # - Patricio Torres: tutorias/estadistica-1/tutores/tutor2.md
-            # - Camila Gonzalez: tutorias/estadistica-1/tutores/tutor3.md
+              - Camila Gonzalez: tutorias/estadistica-1/tutores/tutor3.md
             # - Tutor 4: tutorias/estadistica-1/tutores/tutor4.md
             # - Tutor 5: tutorias/estadistica-1/tutores/tutor5.md
       - Estadística II:
