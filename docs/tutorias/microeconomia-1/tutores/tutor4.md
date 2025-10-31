@@ -25,5 +25,4 @@ Jueves: 8:30 - 11:20, 13:00 - 18:45
 Viernes: 8:30 - 17:20
 
 ## Círculos / Material
-- *(Sube PDF (Proximamente)*  - [Guía 1 (PDF)]  - [Guia 2 (PDF)]
-- *(Links a capsulas (proximamente ) )*  - Capsula 2  - Capsula 1
+- 📁 [Carpeta de materiales – Google Drive](https://drive.google.com/drive/folders/1m8bC06OXU49lInMouy7F4h5rk0litcSJ?usp=sharing)
