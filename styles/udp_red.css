@@ -22,70 +22,75 @@
 }
 
 /* ----- Tabla de horarios estilo Excel ----- */
-.schedule-table {
-  width: 100%;
-  border-collapse: collapse;
-  font-size: 0.82rem;
-  margin-top: 0.75rem;
-  border: 2px solid #999;
-  box-shadow: 2px 2px 6px rgba(0,0,0,0.12);
+table.schedule-table {
+  width: 100% !important;
+  border-collapse: collapse !important;
+  font-size: 0.82rem !important;
+  margin-top: 0.75rem !important;
+  border: 2px solid #888 !important;
+  box-shadow: 3px 3px 8px rgba(0,0,0,0.15) !important;
+  display: table !important;
 }
 
-.schedule-table th {
-  background-color: var(--udp-red);
-  color: #fff;
-  text-align: center;
-  padding: 8px 6px;
-  font-weight: 700;
-  border: 1px solid #b00;
-  font-size: 0.82rem;
-  letter-spacing: 0.02em;
+table.schedule-table th {
+  background-color: #D71920 !important;
+  color: #fff !important;
+  text-align: center !important;
+  padding: 9px 8px !important;
+  font-weight: 700 !important;
+  border: 1px solid #a00 !important;
+  font-size: 0.83rem !important;
 }
 
-.schedule-table td {
-  text-align: center;
-  padding: 7px 6px;
-  border: 1px solid #bbb;
-  font-size: 0.8rem;
-  height: 36px;
+table.schedule-table td {
+  text-align: center !important;
+  padding: 6px 5px !important;
+  border: 1px solid #bbb !important;
+  font-size: 0.8rem !important;
+  height: 38px !important;
+  background-color: #fff !important;
+  color: #bbb !important;
 }
 
-.schedule-table .horario-label {
-  background-color: #e8e8e8;
-  font-weight: 700;
-  color: #222;
-  white-space: nowrap;
-  border: 1px solid #999;
-  font-size: 0.78rem;
-  text-align: left;
-  padding-left: 8px;
+table.schedule-table td.horario-label {
+  background-color: #d9d9d9 !important;
+  font-weight: 700 !important;
+  color: #222 !important;
+  white-space: nowrap !important;
+  border: 1px solid #999 !important;
+  font-size: 0.78rem !important;
+  text-align: left !important;
+  padding-left: 10px !important;
 }
 
-.schedule-table .disponible {
-  background-color: #70ad47;
-  color: #fff;
-  font-weight: 700;
-  font-size: 1rem;
-  border: 1px solid #4e7c32;
+table.schedule-table td.disponible {
+  background-color: #70ad47 !important;
+  color: #fff !important;
+  font-weight: 800 !important;
+  font-size: 1.1rem !important;
+  border: 1px solid #4e7c32 !important;
 }
 
-.schedule-table .online {
-  background-color: #2e75b6;
-  color: #fff;
-  font-weight: 700;
-  font-size: 1rem;
-  border: 1px solid #1f527f;
+table.schedule-table td.online {
+  background-color: #2e75b6 !important;
+  color: #fff !important;
+  font-weight: 800 !important;
+  font-size: 1.1rem !important;
+  border: 1px solid #1f527f !important;
 }
 
-.schedule-table .libre {
-  background-color: #ffffff;
-  color: #ccc;
-  border: 1px solid #bbb;
+table.schedule-table td.libre {
+  background-color: #ffffff !important;
+  color: #ccc !important;
+  border: 1px solid #ddd !important;
 }
 
-/* Alternar filas para efecto Excel */
-.schedule-table tbody tr:nth-child(even) .libre {
-  background-color: #f9f9f9;
+/* Filas alternas efecto Excel */
+table.schedule-table tbody tr:nth-child(even) td.libre {
+  background-color: #f5f5f5 !important;
+}
+table.schedule-table tbody tr:nth-child(even) td.horario-label {
+  background-color: #cecece !important;
 }
 
 /* Leyenda */
@@ -93,7 +98,7 @@
   display: flex;
   gap: 1.2rem;
   margin-top: 0.6rem;
-  font-size: 0.78rem;
+  font-size: 0.8rem;
   flex-wrap: wrap;
   align-items: center;
 }
@@ -115,5 +120,5 @@
 
 .legend-disponible { background-color: #70ad47; }
 .legend-online     { background-color: #2e75b6; }
-.legend-libre      { background-color: #ffffff; }
+.legend-libre      { background-color: #ffffff; border: 1px solid #bbb; }
 
