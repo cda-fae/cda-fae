@@ -21,3 +21,77 @@
   --md-accent-fg-color: var(--udp-red);
 }
 
+/* ----- Tabla de horarios ----- */
+.schedule-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.82rem;
+  margin-top: 0.5rem;
+}
+
+.schedule-table th {
+  background-color: var(--udp-red);
+  color: #fff;
+  text-align: center;
+  padding: 6px 4px;
+  font-weight: 600;
+}
+
+.schedule-table td {
+  text-align: center;
+  padding: 5px 4px;
+  border: 1px solid #ddd;
+  font-size: 0.78rem;
+}
+
+.schedule-table .horario-label {
+  background-color: #f5f5f5;
+  font-weight: 600;
+  color: #444;
+  white-space: nowrap;
+}
+
+.schedule-table .disponible {
+  background-color: #d4edda;
+  color: #155724;
+  font-weight: 500;
+}
+
+.schedule-table .online {
+  background-color: #cce5ff;
+  color: #004085;
+  font-weight: 500;
+}
+
+.schedule-table .libre {
+  background-color: #fafafa;
+  color: #bbb;
+}
+
+/* Leyenda */
+.schedule-legend {
+  display: flex;
+  gap: 1rem;
+  margin-top: 0.5rem;
+  font-size: 0.78rem;
+  flex-wrap: wrap;
+}
+
+.schedule-legend span {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.legend-box {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  border-radius: 3px;
+  border: 1px solid #ccc;
+}
+
+.legend-disponible { background-color: #d4edda; }
+.legend-online     { background-color: #cce5ff; }
+.legend-libre      { background-color: #fafafa; }
+
