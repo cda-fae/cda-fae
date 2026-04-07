@@ -166,7 +166,7 @@ markdown_extensions:
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/Lucho-Pizarro/Udp-Cursos
+      link: https://github.com/cda-fae/cda-fae
     - icon: fontawesome/brands/whatsapp
       link: https://chat.whatsapp.com/HsRUIc4nSjg3zlM19VKPLe?mode=ems_copy_t
     - icon: fontawesome/brands/linkedin
