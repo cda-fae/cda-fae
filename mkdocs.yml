@@ -157,6 +157,7 @@ markdown_extensions:
   - admonition
   - footnotes
   - tables
+  - md_in_html
   - toc:
       permalink: true
   - pymdownx.highlight
