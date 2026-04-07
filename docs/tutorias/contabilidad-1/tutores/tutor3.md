@@ -1,15 +1,19 @@
-# Ficha Tutor 3 — Contabilidad I
+# Álvaro Gatica — Contabilidad I
 
-**Nombre:** _(por completar)_  
-**Año:** _(por completar)_  
-**Contacto:** [correo@ejemplo.cl](mailto:correo@ejemplo.cl)  
-**LinkedIn:** _(opcional)_  
-**WhatsApp (grupo o directo):** _(opcional)_
+**Nombre:** Álvaro Gatica
+
+**Año:** 2025.2
+
+**Contacto:** -
+
+**LinkedIn:** -
+
+**WhatsApp (grupo o directo):** -
 
 ## Presentación
-Breve descripción del tutor, enfoque de la tutoría y experiencia.
+
+Información próximamente disponible.
 
 ## Círculos / Material
-- (Sube PDFs a `docs/assets/` y enlaza aquí)
-- (Links a notebooks / recursos)
 
+Material próximamente disponible.
