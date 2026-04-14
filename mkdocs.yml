@@ -27,6 +27,7 @@ extra_css:
   - styles/udp_red.css
 nav:
   - Inicio: index.md
+  - Contenidos Globales: contenidos-globales.md
   - Círculos de Aprendizaje:
       - Ingeniería Comercial (ICO):
           - Matemáticas I:
