@@ -1,6 +1,6 @@
-# Daniel Cornejo — Finanzas I
+# Sofía Urzúa — Programación
 
-**Nombre:** Daniel Cornejo
+**Nombre:** Sofía Urzúa
 
 **Carrera:** Ingeniería Comercial
 
@@ -11,6 +11,8 @@
 **LinkedIn:** -
 
 **WhatsApp (grupo o directo):** -
+
+> **Nota:** Disponible solo segundo semestre.
 
 ## Presentación
 Información próximamente disponible.

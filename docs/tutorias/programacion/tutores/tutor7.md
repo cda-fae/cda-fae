@@ -1,6 +1,6 @@
-# Daniel Cornejo — Finanzas I
+# Álvaro Barraza — Programación
 
-**Nombre:** Daniel Cornejo
+**Nombre:** Álvaro Barraza
 
 **Carrera:** Ingeniería Comercial
 

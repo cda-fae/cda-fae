@@ -1,8 +1,8 @@
-# Daniel Cornejo — Finanzas I
+# Ignacio Pavéz — Tecnología de la Información
 
-**Nombre:** Daniel Cornejo
+**Nombre:** Ignacio Pavéz
 
-**Carrera:** Ingeniería Comercial
+**Carrera:** Ingeniería en Control de Gestión
 
 **Año:** 2026.1
 

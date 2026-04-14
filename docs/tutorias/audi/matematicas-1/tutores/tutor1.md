@@ -1,8 +1,8 @@
-# Daniel Cornejo — Finanzas I
+# Sebastián Lorca — Matemáticas I
 
-**Nombre:** Daniel Cornejo
+**Nombre:** Sebastián Lorca
 
-**Carrera:** Ingeniería Comercial
+**Carrera:** Auditoría
 
 **Año:** 2026.1
 

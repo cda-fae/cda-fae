@@ -1,4 +1,4 @@
-# Daniel Cornejo — Finanzas I
+# Daniel Cornejo — Programación
 
 **Nombre:** Daniel Cornejo
 

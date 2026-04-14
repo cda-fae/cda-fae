@@ -1,6 +1,6 @@
-# Daniel Cornejo — Finanzas I
+# Catalina Valdevenito — Matemáticas II
 
-**Nombre:** Daniel Cornejo
+**Nombre:** Catalina Valdevenito
 
 **Carrera:** Ingeniería Comercial
 

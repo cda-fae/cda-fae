@@ -1,6 +1,6 @@
-# Daniel Cornejo — Finanzas I
+# Agustín Velásquez — Programación
 
-**Nombre:** Daniel Cornejo
+**Nombre:** Agustín Velásquez
 
 **Carrera:** Ingeniería Comercial
 

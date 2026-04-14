@@ -1,6 +1,6 @@
-# Daniel Cornejo — Finanzas I
+# Antonia Moreira — Matemáticas I
 
-**Nombre:** Daniel Cornejo
+**Nombre:** Antonia Moreira
 
 **Carrera:** Ingeniería Comercial
 

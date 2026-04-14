@@ -1,8 +1,8 @@
-# Daniel Cornejo — Finanzas I
+# Gonzalo Urueta — Principios de Contabilidad
 
-**Nombre:** Daniel Cornejo
+**Nombre:** Gonzalo Urueta
 
-**Carrera:** Ingeniería Comercial
+**Carrera:** Auditoría
 
 **Año:** 2026.1
 

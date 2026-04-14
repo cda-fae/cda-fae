@@ -1,8 +1,8 @@
-# Daniel Cornejo — Finanzas I
+# Vicente Soto — Derecho Tributario
 
-**Nombre:** Daniel Cornejo
+**Nombre:** Vicente Soto
 
-**Carrera:** Ingeniería Comercial
+**Carrera:** Auditoría
 
 **Año:** 2026.1
 

@@ -1,8 +1,8 @@
-# Daniel Cornejo — Finanzas I
+# Simón Castro — Macroeconomía I
 
-**Nombre:** Daniel Cornejo
+**Nombre:** Simón Castro
 
-**Carrera:** Ingeniería Comercial
+**Carrera:** Administración Pública
 
 **Año:** 2026.1
 

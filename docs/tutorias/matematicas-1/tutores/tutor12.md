@@ -1,6 +1,6 @@
-# Daniel Cornejo — Finanzas I
+# Melannie Espinoza — Matemáticas I
 
-**Nombre:** Daniel Cornejo
+**Nombre:** Melannie Espinoza
 
 **Carrera:** Ingeniería Comercial
 

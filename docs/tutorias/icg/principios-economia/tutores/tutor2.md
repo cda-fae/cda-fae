@@ -1,8 +1,8 @@
-# Daniel Cornejo — Finanzas I
+# Antonia Soto — Principios de Economía
 
-**Nombre:** Daniel Cornejo
+**Nombre:** Antonia Soto
 
-**Carrera:** Ingeniería Comercial
+**Carrera:** Ingeniería en Control de Gestión
 
 **Año:** 2026.1
 
@@ -11,6 +11,8 @@
 **LinkedIn:** -
 
 **WhatsApp (grupo o directo):** -
+
+> **Nota:** Disponible solo segundo semestre.
 
 ## Presentación
 Información próximamente disponible.

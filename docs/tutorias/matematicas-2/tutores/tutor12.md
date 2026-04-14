@@ -1,6 +1,6 @@
-# Daniel Cornejo — Finanzas I
+# Agustín Velásquez — Matemáticas II
 
-**Nombre:** Daniel Cornejo
+**Nombre:** Agustín Velásquez
 
 **Carrera:** Ingeniería Comercial
 
@@ -11,6 +11,8 @@
 **LinkedIn:** -
 
 **WhatsApp (grupo o directo):** -
+
+> **Nota:** Disponible en modalidad SOS únicamente.
 
 ## Presentación
 Información próximamente disponible.

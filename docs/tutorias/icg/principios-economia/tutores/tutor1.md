@@ -1,8 +1,8 @@
-# Daniel Cornejo — Finanzas I
+# Antonia Moreira — Principios de Economía
 
-**Nombre:** Daniel Cornejo
+**Nombre:** Antonia Moreira
 
-**Carrera:** Ingeniería Comercial
+**Carrera:** Ingeniería en Control de Gestión
 
 **Año:** 2026.1
 

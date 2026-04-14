@@ -1,8 +1,8 @@
-# Daniel Cornejo — Finanzas I
+# Sahory Vera — Matemáticas I
 
-**Nombre:** Daniel Cornejo
+**Nombre:** Sahory Vera
 
-**Carrera:** Ingeniería Comercial
+**Carrera:** Auditoría
 
 **Año:** 2026.1
 
