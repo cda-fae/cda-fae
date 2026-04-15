@@ -22,20 +22,20 @@ Los **Círculos de Aprendizaje (CDA)** son una iniciativa en la que tutores — 
     <span style="background:#D71920;color:#fff;font-size:0.72rem;font-weight:700;padding:2px 8px;border-radius:20px;margin-left:8px;vertical-align:middle;">ICO</span>
   </div>
   <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:0.65rem;margin-bottom:0.5rem;">
-    <a href="tutorias/matematicas-1/tutores/tutor2/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Matemáticas I</a>
-    <a href="tutorias/matematicas-2/tutores/tutor2/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Matemáticas II</a>
-    <a href="tutorias/matematicas-3/tutores/tutor1/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Matemáticas III</a>
-    <a href="tutorias/contabilidad-1/tutores/tutor3/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Contabilidad I</a>
-    <a href="tutorias/contabilidad-2/tutores/tutor1/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Contabilidad II</a>
-    <a href="tutorias/estadistica-1/tutores/tutor1/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Estadística I</a>
-    <a href="tutorias/estadistica-2/tutores/tutor1/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Estadística II</a>
-    <a href="tutorias/finanzas-1/tutores/tutor1/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Finanzas I</a>
-    <a href="tutorias/macroeconomia-1/tutores/tutor3/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Macroeconomía I</a>
-    <a href="tutorias/macroeconomia-2/tutores/tutor3/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Macroeconomía II</a>
-    <a href="tutorias/microeconomia-1/tutores/tutor1/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Microeconomía I</a>
-    <a href="tutorias/microeconomia-2/tutores/tutor1/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Microeconomía II</a>
-    <a href="tutorias/econometria-1/tutores/tutor1/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Econometría I</a>
-    <a href="tutorias/programacion/tutores/tutor1/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Programación</a>
+    <a href="tutorias/matematicas-1/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Matemáticas I</a>
+    <a href="tutorias/matematicas-2/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Matemáticas II</a>
+    <a href="tutorias/matematicas-3/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Matemáticas III</a>
+    <a href="tutorias/contabilidad-1/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Contabilidad I</a>
+    <a href="tutorias/contabilidad-2/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Contabilidad II</a>
+    <a href="tutorias/estadistica-1/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Estadística I</a>
+    <a href="tutorias/estadistica-2/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Estadística II</a>
+    <a href="tutorias/finanzas-1/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Finanzas I</a>
+    <a href="tutorias/macroeconomia-1/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Macroeconomía I</a>
+    <a href="tutorias/macroeconomia-2/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Macroeconomía II</a>
+    <a href="tutorias/microeconomia-1/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Microeconomía I</a>
+    <a href="tutorias/microeconomia-2/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Microeconomía II</a>
+    <a href="tutorias/econometria-1/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Econometría I</a>
+    <a href="tutorias/programacion/" style="display:block;background:#D71920;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Programación</a>
   </div>
 
   <!-- ICG -->

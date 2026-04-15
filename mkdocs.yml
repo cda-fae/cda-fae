@@ -31,91 +31,91 @@ nav:
   - Círculos de Aprendizaje:
       - Ingeniería Comercial (ICO):
           - Matemáticas I:
-              - Tutores:
-                  - Marcela Robles: tutorias/matematicas-1/tutores/tutor2.md
-                  - Abraham Huerta: tutorias/matematicas-1/tutores/tutor3.md
-                  - Camila González: tutorias/matematicas-1/tutores/tutor4.md
-                  - Francisco Ulloa: tutorias/matematicas-1/tutores/tutor6.md
-                  - Maximiliano Stuardo: tutorias/matematicas-1/tutores/tutor9.md
-                  - Sebastián Lecaros: tutorias/matematicas-1/tutores/tutor10.md
-                  - Antonia Moreira: tutorias/matematicas-1/tutores/tutor11.md
-                  - Melannie Espinoza: tutorias/matematicas-1/tutores/tutor12.md
-                  - Catalina Valdevenito: tutorias/matematicas-1/tutores/tutor13.md
-                  - Agustín Velásquez (SOS): tutorias/matematicas-1/tutores/tutor14.md
+              - Inicio: tutorias/matematicas-1/index.md
+              - Marcela Robles: tutorias/matematicas-1/tutores/tutor2.md
+              - Abraham Huerta: tutorias/matematicas-1/tutores/tutor3.md
+              - Camila González: tutorias/matematicas-1/tutores/tutor4.md
+              - Francisco Ulloa: tutorias/matematicas-1/tutores/tutor6.md
+              - Maximiliano Stuardo: tutorias/matematicas-1/tutores/tutor9.md
+              - Sebastián Lecaros: tutorias/matematicas-1/tutores/tutor10.md
+              - Antonia Moreira: tutorias/matematicas-1/tutores/tutor11.md
+              - Melannie Espinoza: tutorias/matematicas-1/tutores/tutor12.md
+              - Catalina Valdevenito: tutorias/matematicas-1/tutores/tutor13.md
+              - Agustín Velásquez (SOS): tutorias/matematicas-1/tutores/tutor14.md
           - Matemáticas II:
-              - Tutores:
-                  - Francisco Ulloa: tutorias/matematicas-2/tutores/tutor2.md
-                  - Luis Briceño: tutorias/matematicas-2/tutores/tutor3.md
-                  - Camila González: tutorias/matematicas-2/tutores/tutor4.md
-                  - Dhalmar Ovando: tutorias/matematicas-2/tutores/tutor5.md
-                  - Antonia Soto: tutorias/matematicas-2/tutores/tutor9.md
-                  - Sebastián Lecaros: tutorias/matematicas-2/tutores/tutor10.md
-                  - Catalina Valdevenito: tutorias/matematicas-2/tutores/tutor11.md
-                  - Agustín Velásquez (SOS): tutorias/matematicas-2/tutores/tutor12.md
+              - Inicio: tutorias/matematicas-2/index.md
+              - Francisco Ulloa: tutorias/matematicas-2/tutores/tutor2.md
+              - Luis Briceño: tutorias/matematicas-2/tutores/tutor3.md
+              - Camila González: tutorias/matematicas-2/tutores/tutor4.md
+              - Dhalmar Ovando: tutorias/matematicas-2/tutores/tutor5.md
+              - Antonia Soto: tutorias/matematicas-2/tutores/tutor9.md
+              - Sebastián Lecaros: tutorias/matematicas-2/tutores/tutor10.md
+              - Catalina Valdevenito: tutorias/matematicas-2/tutores/tutor11.md
+              - Agustín Velásquez (SOS): tutorias/matematicas-2/tutores/tutor12.md
           - Matemáticas III:
-              - Tutores:
-                  - Dhalmar Ovando: tutorias/matematicas-3/tutores/tutor1.md
-                  - Luis Briceño: tutorias/matematicas-3/tutores/tutor2.md
-                  - Abraham Huerta: tutorias/matematicas-3/tutores/tutor3.md
+              - Inicio: tutorias/matematicas-3/index.md
+              - Dhalmar Ovando: tutorias/matematicas-3/tutores/tutor1.md
+              - Luis Briceño: tutorias/matematicas-3/tutores/tutor2.md
+              - Abraham Huerta: tutorias/matematicas-3/tutores/tutor3.md
           - Contabilidad I:
-              - Tutores:
-                  - Álvaro Gatica: tutorias/contabilidad-1/tutores/tutor3.md
-                  - Camila Pastén (SOS): tutorias/contabilidad-1/tutores/tutor4.md
-                  - Emilio Hagar: tutorias/contabilidad-1/tutores/tutor5.md
+              - Inicio: tutorias/contabilidad-1/index.md
+              - Álvaro Gatica: tutorias/contabilidad-1/tutores/tutor3.md
+              - Camila Pastén (SOS): tutorias/contabilidad-1/tutores/tutor4.md
+              - Emilio Hagar: tutorias/contabilidad-1/tutores/tutor5.md
           - Contabilidad II:
-              - Tutores:
-                  - Dominique Jouvhome: tutorias/contabilidad-2/tutores/tutor1.md
-                  - Camila Pastén (SOS): tutorias/contabilidad-2/tutores/tutor2.md
+              - Inicio: tutorias/contabilidad-2/index.md
+              - Dominique Jouvhome: tutorias/contabilidad-2/tutores/tutor1.md
+              - Camila Pastén (SOS): tutorias/contabilidad-2/tutores/tutor2.md
           - Estadística I:
-              - Tutores:
-                  - Martina Ramirez: tutorias/estadistica-1/tutores/tutor1.md
-                  - Camila González: tutorias/estadistica-1/tutores/tutor3.md
+              - Inicio: tutorias/estadistica-1/index.md
+              - Martina Ramirez: tutorias/estadistica-1/tutores/tutor1.md
+              - Camila González: tutorias/estadistica-1/tutores/tutor3.md
           - Estadística II:
-              - Tutores:
-                  - Martina Ramirez: tutorias/estadistica-2/tutores/tutor1.md
-                  - Abraham Huerta: tutorias/estadistica-2/tutores/tutor2.md
-                  - Catalina Martinez: tutorias/estadistica-2/tutores/tutor3.md
+              - Inicio: tutorias/estadistica-2/index.md
+              - Martina Ramirez: tutorias/estadistica-2/tutores/tutor1.md
+              - Abraham Huerta: tutorias/estadistica-2/tutores/tutor2.md
+              - Catalina Martinez: tutorias/estadistica-2/tutores/tutor3.md
           - Finanzas I:
-              - Tutores:
-                  - Álvaro Gatica: tutorias/finanzas-1/tutores/tutor1.md
-                  - Luis Briceño: tutorias/finanzas-1/tutores/tutor2.md
-                  - Daniel Cornejo: tutorias/finanzas-1/tutores/tutor3.md
+              - Inicio: tutorias/finanzas-1/index.md
+              - Álvaro Gatica: tutorias/finanzas-1/tutores/tutor1.md
+              - Luis Briceño: tutorias/finanzas-1/tutores/tutor2.md
+              - Daniel Cornejo: tutorias/finanzas-1/tutores/tutor3.md
           - Macroeconomía I:
-              - Tutores:
-                  - Joakina Quezada: tutorias/macroeconomia-1/tutores/tutor3.md
-                  - Dhalmar Ovando: tutorias/macroeconomia-1/tutores/tutor4.md
-                  - Marcela Robles: tutorias/macroeconomia-1/tutores/tutor5.md
+              - Inicio: tutorias/macroeconomia-1/index.md
+              - Joakina Quezada: tutorias/macroeconomia-1/tutores/tutor3.md
+              - Dhalmar Ovando: tutorias/macroeconomia-1/tutores/tutor4.md
+              - Marcela Robles: tutorias/macroeconomia-1/tutores/tutor5.md
           - Macroeconomía II:
-              - Tutores:
-                  - Abraham Huerta: tutorias/macroeconomia-2/tutores/tutor3.md
+              - Inicio: tutorias/macroeconomia-2/index.md
+              - Abraham Huerta: tutorias/macroeconomia-2/tutores/tutor3.md
           - Microeconomía I:
-              - Tutores:
-                  - Francisco Ulloa: tutorias/microeconomia-1/tutores/tutor1.md
-                  - Joakina Quezada: tutorias/microeconomia-1/tutores/tutor3.md
-                  - Maximiliano Stuardo: tutorias/microeconomia-1/tutores/tutor4.md
-                  - Sebastián Lecaros: tutorias/microeconomia-1/tutores/tutor5.md
-                  - Antonia Moreira: tutorias/microeconomia-1/tutores/tutor6.md
-                  - Catalina Valdevenito: tutorias/microeconomia-1/tutores/tutor7.md
-                  - Agustín Velásquez (SOS): tutorias/microeconomia-1/tutores/tutor8.md
+              - Inicio: tutorias/microeconomia-1/index.md
+              - Francisco Ulloa: tutorias/microeconomia-1/tutores/tutor1.md
+              - Joakina Quezada: tutorias/microeconomia-1/tutores/tutor3.md
+              - Maximiliano Stuardo: tutorias/microeconomia-1/tutores/tutor4.md
+              - Sebastián Lecaros: tutorias/microeconomia-1/tutores/tutor5.md
+              - Antonia Moreira: tutorias/microeconomia-1/tutores/tutor6.md
+              - Catalina Valdevenito: tutorias/microeconomia-1/tutores/tutor7.md
+              - Agustín Velásquez (SOS): tutorias/microeconomia-1/tutores/tutor8.md
           - Microeconomía II:
-              - Tutores:
-                  - Luis Briceño: tutorias/microeconomia-2/tutores/tutor1.md
-                  - Maximiliano Stuardo: tutorias/microeconomia-2/tutores/tutor3.md
-                  - Abraham Huerta: tutorias/microeconomia-2/tutores/tutor4.md
-                  - Sebastián Lecaros: tutorias/microeconomia-2/tutores/tutor5.md
+              - Inicio: tutorias/microeconomia-2/index.md
+              - Luis Briceño: tutorias/microeconomia-2/tutores/tutor1.md
+              - Maximiliano Stuardo: tutorias/microeconomia-2/tutores/tutor3.md
+              - Abraham Huerta: tutorias/microeconomia-2/tutores/tutor4.md
+              - Sebastián Lecaros: tutorias/microeconomia-2/tutores/tutor5.md
           - Econometría I:
-              - Tutores:
-                  - Álvaro Barraza: tutorias/econometria-1/tutores/tutor1.md
-                  - Sofía Urzúa (2do sem.): tutorias/econometria-1/tutores/tutor2.md
+              - Inicio: tutorias/econometria-1/index.md
+              - Álvaro Barraza: tutorias/econometria-1/tutores/tutor1.md
+              - Sofía Urzúa (2do sem.): tutorias/econometria-1/tutores/tutor2.md
           - Programación:
-              - Tutores:
-                  - Martina Ramirez: tutorias/programacion/tutores/tutor1.md
-                  - Maximiliano Stuardo: tutorias/programacion/tutores/tutor2.md
-                  - Camila Pastén (SOS): tutorias/programacion/tutores/tutor3.md
-                  - Daniel Cornejo: tutorias/programacion/tutores/tutor6.md
-                  - Álvaro Barraza: tutorias/programacion/tutores/tutor7.md
-                  - Agustín Velásquez: tutorias/programacion/tutores/tutor8.md
-                  - Sofía Urzúa (2do sem.): tutorias/programacion/tutores/tutor9.md
+              - Inicio: tutorias/programacion/index.md
+              - Martina Ramirez: tutorias/programacion/tutores/tutor1.md
+              - Maximiliano Stuardo: tutorias/programacion/tutores/tutor2.md
+              - Camila Pastén (SOS): tutorias/programacion/tutores/tutor3.md
+              - Daniel Cornejo: tutorias/programacion/tutores/tutor6.md
+              - Álvaro Barraza: tutorias/programacion/tutores/tutor7.md
+              - Agustín Velásquez: tutorias/programacion/tutores/tutor8.md
+              - Sofía Urzúa (2do sem.): tutorias/programacion/tutores/tutor9.md
       - Control de Gestión (ICG):
           - Matemáticas I:
               - Tutores:
