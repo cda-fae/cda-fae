@@ -44,10 +44,10 @@ Los **Círculos de Aprendizaje (CDA)** son una iniciativa en la que tutores — 
     <span style="background:#9b1117;color:#fff;font-size:0.72rem;font-weight:700;padding:2px 8px;border-radius:20px;margin-left:8px;vertical-align:middle;">ICG</span>
   </div>
   <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:0.65rem;margin-bottom:0.5rem;">
-    <a href="tutorias/icg/matematicas-1/tutores/tutor1/" style="display:block;background:#9b1117;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Matemáticas I</a>
-    <a href="tutorias/icg/tecnologia-informacion/tutores/tutor1/" style="display:block;background:#9b1117;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Tecnología de la Info.</a>
-    <a href="tutorias/icg/principios-economia/tutores/tutor1/" style="display:block;background:#9b1117;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Principios de Economía</a>
-    <a href="tutorias/icg/intro-microeconomia/tutores/tutor1/" style="display:block;background:#9b1117;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Intro. Microeconomía</a>
+    <a href="tutorias/icg/matematicas-1/" style="display:block;background:#9b1117;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Matemáticas I</a>
+    <a href="tutorias/icg/tecnologia-informacion/" style="display:block;background:#9b1117;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Tecnología de la Info.</a>
+    <a href="tutorias/icg/principios-economia/" style="display:block;background:#9b1117;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Principios de Economía</a>
+    <a href="tutorias/icg/intro-microeconomia/" style="display:block;background:#9b1117;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Intro. Microeconomía</a>
   </div>
 
   <!-- AP -->
@@ -56,9 +56,9 @@ Los **Círculos de Aprendizaje (CDA)** son una iniciativa en la que tutores — 
     <span style="background:#6d0c10;color:#fff;font-size:0.72rem;font-weight:700;padding:2px 8px;border-radius:20px;margin-left:8px;vertical-align:middle;">AP</span>
   </div>
   <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:0.65rem;margin-bottom:0.5rem;">
-    <a href="tutorias/ap/matematicas-1/tutores/tutor1/" style="display:block;background:#6d0c10;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Matemáticas I</a>
-    <a href="tutorias/ap/macroeconomia-1/tutores/tutor1/" style="display:block;background:#6d0c10;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Macroeconomía I</a>
-    <a href="tutorias/ap/ciencia-politica/tutores/tutor1/" style="display:block;background:#6d0c10;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Intro. Ciencia Política</a>
+    <a href="tutorias/ap/matematicas-1/" style="display:block;background:#6d0c10;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Matemáticas I</a>
+    <a href="tutorias/ap/macroeconomia-1/" style="display:block;background:#6d0c10;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Macroeconomía I</a>
+    <a href="tutorias/ap/ciencia-politica/" style="display:block;background:#6d0c10;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Intro. Ciencia Política</a>
   </div>
 
   <!-- AUDI -->
@@ -67,9 +67,9 @@ Los **Círculos de Aprendizaje (CDA)** son una iniciativa en la que tutores — 
     <span style="background:#3d0709;color:#fff;font-size:0.72rem;font-weight:700;padding:2px 8px;border-radius:20px;margin-left:8px;vertical-align:middle;">AUDI</span>
   </div>
   <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:0.65rem;margin-bottom:0.5rem;">
-    <a href="tutorias/audi/matematicas-1/tutores/tutor1/" style="display:block;background:#3d0709;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Matemáticas I</a>
-    <a href="tutorias/audi/principios-contabilidad/tutores/tutor1/" style="display:block;background:#3d0709;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Princ. de Contabilidad</a>
-    <a href="tutorias/audi/derecho-tributario/tutores/tutor1/" style="display:block;background:#3d0709;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Derecho Tributario</a>
+    <a href="tutorias/audi/matematicas-1/" style="display:block;background:#3d0709;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Matemáticas I</a>
+    <a href="tutorias/audi/principios-contabilidad/" style="display:block;background:#3d0709;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Princ. de Contabilidad</a>
+    <a href="tutorias/audi/derecho-tributario/" style="display:block;background:#3d0709;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Derecho Tributario</a>
   </div>
 
   <!-- BACH -->
@@ -78,7 +78,7 @@ Los **Círculos de Aprendizaje (CDA)** son una iniciativa en la que tutores — 
     <span style="background:#1a0203;color:#fff;font-size:0.72rem;font-weight:700;padding:2px 8px;border-radius:20px;margin-left:8px;vertical-align:middle;">BACH</span>
   </div>
   <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:0.65rem;margin-bottom:0.5rem;">
-    <a href="tutorias/bach/intro-economia/tutores/tutor1/" style="display:block;background:#1a0203;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Intro a la Economía</a>
+    <a href="tutorias/bach/intro-economia/" style="display:block;background:#1a0203;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Intro a la Economía</a>
   </div>
 
 </div>

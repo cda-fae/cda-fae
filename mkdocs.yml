@@ -118,45 +118,45 @@ nav:
               - Sofía Urzúa (2do sem.): tutorias/programacion/tutores/tutor9.md
       - Control de Gestión (ICG):
           - Matemáticas I:
-              - Tutores:
-                  - Ignacio Pavéz: tutorias/icg/matematicas-1/tutores/tutor1.md
-                  - Antonia Moreira: tutorias/icg/matematicas-1/tutores/tutor2.md
-                  - Antonia Soto (2do sem.): tutorias/icg/matematicas-1/tutores/tutor3.md
+              - Inicio: tutorias/icg/matematicas-1/index.md
+              - Ignacio Pavéz: tutorias/icg/matematicas-1/tutores/tutor1.md
+              - Antonia Moreira: tutorias/icg/matematicas-1/tutores/tutor2.md
+              - Antonia Soto (2do sem.): tutorias/icg/matematicas-1/tutores/tutor3.md
           - Tecnología de la Información:
-              - Tutores:
-                  - Ignacio Pavéz: tutorias/icg/tecnologia-informacion/tutores/tutor1.md
+              - Inicio: tutorias/icg/tecnologia-informacion/index.md
+              - Ignacio Pavéz: tutorias/icg/tecnologia-informacion/tutores/tutor1.md
           - Principios de Economía:
-              - Tutores:
-                  - Antonia Moreira: tutorias/icg/principios-economia/tutores/tutor1.md
-                  - Antonia Soto (2do sem.): tutorias/icg/principios-economia/tutores/tutor2.md
+              - Inicio: tutorias/icg/principios-economia/index.md
+              - Antonia Moreira: tutorias/icg/principios-economia/tutores/tutor1.md
+              - Antonia Soto (2do sem.): tutorias/icg/principios-economia/tutores/tutor2.md
           - Introducción a la Microeconomía:
-              - Tutores:
-                  - Antonia Soto (2do sem.): tutorias/icg/intro-microeconomia/tutores/tutor1.md
+              - Inicio: tutorias/icg/intro-microeconomia/index.md
+              - Antonia Soto (2do sem.): tutorias/icg/intro-microeconomia/tutores/tutor1.md
       - Administración Pública (AP):
           - Matemáticas I:
-              - Tutores:
-                  - Simón Castro: tutorias/ap/matematicas-1/tutores/tutor1.md
+              - Inicio: tutorias/ap/matematicas-1/index.md
+              - Simón Castro: tutorias/ap/matematicas-1/tutores/tutor1.md
           - Macroeconomía I:
-              - Tutores:
-                  - Simón Castro: tutorias/ap/macroeconomia-1/tutores/tutor1.md
+              - Inicio: tutorias/ap/macroeconomia-1/index.md
+              - Simón Castro: tutorias/ap/macroeconomia-1/tutores/tutor1.md
           - Introducción a la Ciencia Política:
-              - Tutores:
-                  - Simón Castro: tutorias/ap/ciencia-politica/tutores/tutor1.md
+              - Inicio: tutorias/ap/ciencia-politica/index.md
+              - Simón Castro: tutorias/ap/ciencia-politica/tutores/tutor1.md
       - Auditoría (AUDI):
           - Matemáticas I:
-              - Tutores:
-                  - Sebastián Lorca: tutorias/audi/matematicas-1/tutores/tutor1.md
-                  - Sahory Vera: tutorias/audi/matematicas-1/tutores/tutor2.md
+              - Inicio: tutorias/audi/matematicas-1/index.md
+              - Sebastián Lorca: tutorias/audi/matematicas-1/tutores/tutor1.md
+              - Sahory Vera: tutorias/audi/matematicas-1/tutores/tutor2.md
           - Principios de Contabilidad:
-              - Tutores:
-                  - Gonzalo Urueta: tutorias/audi/principios-contabilidad/tutores/tutor1.md
+              - Inicio: tutorias/audi/principios-contabilidad/index.md
+              - Gonzalo Urueta: tutorias/audi/principios-contabilidad/tutores/tutor1.md
           - Derecho Tributario:
-              - Tutores:
-                  - Vicente Soto: tutorias/audi/derecho-tributario/tutores/tutor1.md
+              - Inicio: tutorias/audi/derecho-tributario/index.md
+              - Vicente Soto: tutorias/audi/derecho-tributario/tutores/tutor1.md
       - Bachillerato (BACH):
           - Intro a la Economía:
-              - Tutores:
-                  - Francisco Ulloa: tutorias/bach/intro-economia/tutores/tutor1.md
+              - Inicio: tutorias/bach/intro-economia/index.md
+              - Francisco Ulloa: tutorias/bach/intro-economia/tutores/tutor1.md
   - Sobre nosotros: about.md
 plugins:
   - search
