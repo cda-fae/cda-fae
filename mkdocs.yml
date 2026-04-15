@@ -32,7 +32,6 @@ nav:
       - Ingeniería Comercial (ICO):
           - Matemáticas I:
               - Tutores:
-                  - Javiera Morgado: tutorias/matematicas-1/tutores/tutor1.md
                   - Marcela Robles: tutorias/matematicas-1/tutores/tutor2.md
                   - Abraham Huerta: tutorias/matematicas-1/tutores/tutor3.md
                   - Camila González: tutorias/matematicas-1/tutores/tutor4.md
@@ -45,7 +44,6 @@ nav:
                   - Agustín Velásquez (SOS): tutorias/matematicas-1/tutores/tutor14.md
           - Matemáticas II:
               - Tutores:
-                  - Javiera Morgado: tutorias/matematicas-2/tutores/tutor1.md
                   - Francisco Ulloa: tutorias/matematicas-2/tutores/tutor2.md
                   - Luis Briceño: tutorias/matematicas-2/tutores/tutor3.md
                   - Camila González: tutorias/matematicas-2/tutores/tutor4.md
@@ -61,7 +59,6 @@ nav:
                   - Abraham Huerta: tutorias/matematicas-3/tutores/tutor3.md
           - Contabilidad I:
               - Tutores:
-                  - Javiera Morgado: tutorias/contabilidad-1/tutores/tutor1.md
                   - Álvaro Gatica: tutorias/contabilidad-1/tutores/tutor3.md
                   - Camila Pastén (SOS): tutorias/contabilidad-1/tutores/tutor4.md
                   - Emilio Hagar: tutorias/contabilidad-1/tutores/tutor5.md
