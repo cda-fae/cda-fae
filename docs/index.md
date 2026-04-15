@@ -72,4 +72,13 @@ Los **Círculos de Aprendizaje (CDA)** son una iniciativa en la que tutores — 
     <a href="tutorias/audi/derecho-tributario/tutores/tutor1/" style="display:block;background:#3d0709;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Derecho Tributario</a>
   </div>
 
+  <!-- BACH -->
+  <div style="border-left:4px solid #1a0203;padding-left:12px;margin-bottom:0.6rem;margin-top:1.6rem;">
+    <span style="font-weight:700;font-size:1rem;color:#1a0203;">Bachillerato</span>
+    <span style="background:#1a0203;color:#fff;font-size:0.72rem;font-weight:700;padding:2px 8px;border-radius:20px;margin-left:8px;vertical-align:middle;">BACH</span>
+  </div>
+  <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:0.65rem;margin-bottom:0.5rem;">
+    <a href="tutorias/bach/intro-economia/tutores/tutor1/" style="display:block;background:#1a0203;color:#fff;padding:9px 12px;border-radius:6px;text-decoration:none;font-weight:600;font-size:0.88rem;text-align:center;">Intro a la Economía</a>
+  </div>
+
 </div>
