@@ -10,6 +10,10 @@
 
 **WhatsApp (grupo o directo):** _opcional_
 
+<div style="text-align:center;margin-bottom:1rem;">
+  <img src="../../../../images/Maximiliano Stuardo.jpg" alt="Maximiliano Stuardo" style="width:180px;height:180px;object-fit:cover;border-radius:50%;border:3px solid #D71920;">
+</div>
+
 ## Presentación
 Mi nombre es Maximiliano Stuardo, actualmente estudiante de 2do año de Ingeniería Comercial. Principalmente me dedico a hacer círculos de asignaturas de cálculo (Matemáticas I y II), de asignaturas microeconómicas (Microeconomía I y II, e Introducción a la Microeconomía en ICG) como también asignaturas de datos (Programación). Cuento con diploma correspondiente a distinción de honor otorgada por la cohorte por alcanzar la máxima excelencia académica. Me destaco como tutor haciendo clases tipo Lecture donde me enfoco principalmente en explicar de forma estructurada y oral a los estudiantes las distintas áreas en donde me desempeño como tutor. Mi mayor fuerte en esto es el foco matemático, donde disfruto de demostrar el porqué de los fenómenos que ocurren bajo el sustento matemático y teórico de las asignaturas en sí. Si te acomoda aprender escuchando, observando y debatiendo cada paso de los procedimientos que respaldan los fenómenos ocurrentes entonces soy el indicado para tí. Horarios disponibles para solicitar círculos:
 
