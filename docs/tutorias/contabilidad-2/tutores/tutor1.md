@@ -1,19 +1,23 @@
-# Dominique Jouvhome — Contabilidad II
+# Dominique Jouvhomme — Contabilidad II
 
-**Nombre:** Dominique Jouvhome
+**Nombre:** Dominique Jouvhomme
 
 **Carrera:** Ingeniería Comercial
 
 **Año:** 2026.1
 
-**Contacto:** -
+**Contacto:** [dominique.jouvhomme@mail.udp.cl](mailto:dominique.jouvhomme@mail.udp.cl?subject=Consulta%20Tutorías)
 
-**LinkedIn:** -
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/dominique-jouvhomme-luy-b6a1922367)
 
-**WhatsApp (grupo o directo):** -
+**WhatsApp (grupo o directo):** +56930807561
+
+<div style="text-align:center;margin-bottom:1rem;">
+  <img src="../../../../images/Dominique Jouvhomme.jpg" alt="Dominique Jouvhomme" style="width:180px;height:180px;object-fit:cover;border-radius:50%;border:3px solid #D71920;">
+</div>
 
 ## Presentación
-Información próximamente disponible.
+Soy estudiante de 3er año de ingeniería comercial, entre el año 2024 y también formé parte de monitores, por lo cual me motiva mucho ayudar a todos los estudiantes.
 
 Horarios disponibles para solicitar círculos:
 
@@ -28,32 +32,60 @@ Horarios disponibles para solicitar círculos:
   </tr></thead>
   <tbody>
     <tr>
-      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;">8:30 – 9:50</td>
-      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;text-align:left;">8:30 – 9:50</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
     </tr>
     <tr>
-      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;">10:00 – 11:20</td>
-      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;text-align:left;">10:00 – 11:20</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
     </tr>
     <tr>
-      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;">11:30 – 12:50</td>
-      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;text-align:left;">11:30 – 12:50</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#70ad47;color:#fff;font-weight:700;border:1px solid #4e7c32;text-align:center;padding:6px;font-size:1rem;">✓</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#70ad47;color:#fff;font-weight:700;border:1px solid #4e7c32;text-align:center;padding:6px;font-size:1rem;">✓</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
     </tr>
     <tr>
-      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;">13:00 – 14:20</td>
-      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;text-align:left;">13:00 – 14:20</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#70ad47;color:#fff;font-weight:700;border:1px solid #4e7c32;text-align:center;padding:6px;font-size:1rem;">✓</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
     </tr>
     <tr>
-      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;">14:30 – 15:50</td>
-      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;text-align:left;">14:30 – 15:50</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
     </tr>
     <tr>
-      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;">16:00 – 17:20</td>
-      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;text-align:left;">16:00 – 17:20</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
     </tr>
     <tr>
-      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;">17:30 – 18:50</td>
-      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;text-align:left;">17:30 – 18:50</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
     </tr>
   </tbody>
 </table>

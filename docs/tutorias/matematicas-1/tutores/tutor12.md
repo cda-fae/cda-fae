@@ -6,14 +6,14 @@
 
 **Año:** 2026.1
 
-**Contacto:** -
+**Contacto:** [melannie.espinoza@mail.udp.cl](mailto:melannie.espinoza@mail.udp.cl?subject=Consulta%20Tutorías)
 
-**LinkedIn:** -
+**LinkedIn:** [LinkedIn](https://www.linkedin.com/in/melannie-espinoza-carrasco-7b9bab293)
 
 **WhatsApp (grupo o directo):** -
 
 ## Presentación
-Información próximamente disponible.
+Holii, mi nombre es Melannie Espinoza y estoy en segundo año de Ingeniería Comercial. Actualmente soy ayudante de Matemáticas I y realizo círculos de aprendizaje del mismo ramo. Me gustan mucho las matemáticas y me motiva enseñar a otros a comprender mejor la materia, no solo resolviendo ejercicios, sino también apoyándolos y acompañándolos en su proceso de aprendizaje. Siempre que me necesiten, pueden hablarme si me ven en la u o a través de los medios de contacto que aparecen en la página.
 
 Horarios disponibles para solicitar círculos:
 
@@ -28,32 +28,60 @@ Horarios disponibles para solicitar círculos:
   </tr></thead>
   <tbody>
     <tr>
-      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;">8:30 – 9:50</td>
-      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;text-align:left;">8:30 – 9:50</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#70ad47;color:#fff;font-weight:700;border:1px solid #4e7c32;text-align:center;padding:6px;font-size:1rem;">✓</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#70ad47;color:#fff;font-weight:700;border:1px solid #4e7c32;text-align:center;padding:6px;font-size:1rem;">✓</td>
     </tr>
     <tr>
-      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;">10:00 – 11:20</td>
-      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;text-align:left;">10:00 – 11:20</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#70ad47;color:#fff;font-weight:700;border:1px solid #4e7c32;text-align:center;padding:6px;font-size:1rem;">✓</td>
     </tr>
     <tr>
-      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;">11:30 – 12:50</td>
-      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;text-align:left;">11:30 – 12:50</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
     </tr>
     <tr>
-      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;">13:00 – 14:20</td>
-      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;text-align:left;">13:00 – 14:20</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
     </tr>
     <tr>
-      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;">14:30 – 15:50</td>
-      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;text-align:left;">14:30 – 15:50</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#70ad47;color:#fff;font-weight:700;border:1px solid #4e7c32;text-align:center;padding:6px;font-size:1rem;">✓</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
     </tr>
     <tr>
-      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;">16:00 – 17:20</td>
-      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;text-align:left;">16:00 – 17:20</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#70ad47;color:#fff;font-weight:700;border:1px solid #4e7c32;text-align:center;padding:6px;font-size:1rem;">✓</td>
+      <td style="background-color:#f5f5f5;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#70ad47;color:#fff;font-weight:700;border:1px solid #4e7c32;text-align:center;padding:6px;font-size:1rem;">✓</td>
+      <td style="background-color:#70ad47;color:#fff;font-weight:700;border:1px solid #4e7c32;text-align:center;padding:6px;font-size:1rem;">✓</td>
     </tr>
     <tr>
-      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;">17:30 – 18:50</td>
-      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td><td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#d9d9d9;font-weight:700;color:#222;border:1px solid #999;padding:6px 10px;white-space:nowrap;text-align:left;">17:30 – 18:50</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#70ad47;color:#fff;font-weight:700;border:1px solid #4e7c32;text-align:center;padding:6px;font-size:1rem;">✓</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
+      <td style="background-color:#70ad47;color:#fff;font-weight:700;border:1px solid #4e7c32;text-align:center;padding:6px;font-size:1rem;">✓</td>
+      <td style="background-color:#fff;color:#ccc;border:1px solid #ddd;text-align:center;padding:6px;">—</td>
     </tr>
   </tbody>
 </table>
