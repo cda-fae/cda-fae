@@ -90,8 +90,4 @@ Horarios disponibles para solicitar círculos:
   <span style="display:inline-flex;align-items:center;gap:6px;"><span style="display:inline-block;width:16px;height:16px;background:#fff;border-radius:2px;border:1px solid #bbb;"></span> No disponible</span>
 </div>
 ## Círculos / Material
-Para acceder a la carpeta usar su mail.udp.cl- 📁 [Carpeta de materiales – Google Drive](https://drive.google.com/drive/folders/1pvxFseLtaADPQjem5QT2rJ--Nicf8K8O?usp=sharing)
-
-
-
-
+- 📁 [Carpeta de materiales – Google Drive](https://drive.google.com/drive/folders/1pvxFseLtaADPQjem5QT2rJ--Nicf8K8O?usp=sharing)

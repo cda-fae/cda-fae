@@ -92,4 +92,5 @@ Mi nombre es Maximiliano Stuardo, actualmente estudiante de 2do año de Ingenier
   <span style="display:inline-flex;align-items:center;gap:6px;"><span style="display:inline-block;width:16px;height:16px;background:#2e75b6;border-radius:2px;border:1px solid #1f527f;"></span> Disponible online</span>
   <span style="display:inline-flex;align-items:center;gap:6px;"><span style="display:inline-block;width:16px;height:16px;background:#fff;border-radius:2px;border:1px solid #bbb;"></span> No disponible</span>
 </div>
-## Círculos / Material- 📁 [Carpeta de materiales – Google Drive](https://drive.google.com/drive/folders/1apmkZ-mp422rx5tcoegVGYMuYWBaVySv?usp=sharing)
+## Círculos / Material
+- 📁 [Carpeta de materiales – Google Drive](https://drive.google.com/drive/folders/1apmkZ-mp422rx5tcoegVGYMuYWBaVySv?usp=sharing)

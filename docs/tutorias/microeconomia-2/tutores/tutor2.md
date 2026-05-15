@@ -16,8 +16,4 @@ Info incompleta
 
 
 ## Círculos / Material
-
 - 📁 [Carpeta de materiales – Google Drive](https://drive.google.com/drive/folders/1HqqBK2bfWya6n4LLevvgxvu62ThZVrYu?usp=sharing)
-
-
-
