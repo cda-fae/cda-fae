@@ -65,4 +65,4 @@ Horarios disponibles para solicitar círculos:
 </div>
 
 ## Círculos / Material
-Material próximamente disponible.
+- 📁 [Carpeta de materiales – Google Drive](https://drive.google.com/drive/folders/1UUfZtIBrQ4xNRDsm2MwajTduvaBXbic3?usp=sharing)

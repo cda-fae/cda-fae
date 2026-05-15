@@ -95,4 +95,4 @@ Horarios disponibles para solicitar círculos:
 > **Online disponible:** Jueves y Viernes 19:00 – 21:20 (contactar directamente por WhatsApp o correo)
 
 ## Círculos / Material
-Material próximamente disponible.
+- 📁 [Carpeta de materiales – Google Drive](https://drive.google.com/drive/folders/1zBDPtuxiHjkPy5643YBmV4W-ue60Vc4I?usp=sharing)

@@ -95,7 +95,5 @@ Horarios disponibles para solicitar círculos:
 
 \* Disponible online a partir de las 19:00 hrs (todos los días).
 ## Círculos / Material
-Para acceder al material, utilizar su cuenta mail.udp.cl
-
--  📁 [Carpeta de materiales – Google Drive](https://drive.google.com/drive/folders/15ncRMZGUjeEQa7oIYILH2Feo4rCaWs2_?usp=sharing)
+Para acceder al material, utilizar su cuenta mail.udp.cl- 📁 [Carpeta de materiales – Google Drive](https://drive.google.com/drive/folders/1p1jMcx3ZnKUYMQqbjCnUGvRPe_81yh2x?usp=sharing)
 

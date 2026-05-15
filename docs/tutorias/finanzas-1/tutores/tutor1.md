@@ -20,5 +20,4 @@ especialmente en temas financieros y económicos que suelen representar mayores 
 ---
 
 ## Círculos / Material
-- [Guía de Finanzas I (PDF)](../../../assets/pdf/finanzas1/Finanzas_I-12.pdf)
-- 📁 [Carpeta de materiales – Google Drive](https://drive.google.com/drive/folders/1gtUUMqDMhDOI9VFa3D2xDKi_Zis-Jpl7?usp=sharing)
+- [Guía de Finanzas I (PDF)](../../../assets/pdf/finanzas1/Finanzas_I-12.pdf)- 📁 [Carpeta de materiales – Google Drive](https://drive.google.com/drive/folders/1iIK6uIhb7drDrpVyskd55kUj-VCg7RsC?usp=sharing)

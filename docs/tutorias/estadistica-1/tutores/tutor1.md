@@ -91,5 +91,4 @@ Horarios disponibles para solicitar círculos:
 </div>
 
 \* Disponible online a partir de las 20:00 hrs (todos los días).
-## Círculos / Material
--   📁 [Carpeta de materiales – Google Drive](https://drive.google.com/drive/folders/1alP4X5IBAMui82H82GLl7GqJZtzqiN82?usp=sharing)
+## Círculos / Material- 📁 [Carpeta de materiales – Google Drive](https://drive.google.com/drive/folders/1X_MFwvKA0762G4g4_TYppqhrlKk434C5?usp=sharing)
