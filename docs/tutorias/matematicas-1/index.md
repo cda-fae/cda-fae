@@ -32,4 +32,6 @@ Contenido del ramo próximamente disponible.
 
 <a href="tutores/tutor14/" style="display:block;background:#fff;border:1px solid #e0e0e0;border-left:4px solid #D71920;border-radius:6px;padding:14px 16px;text-decoration:none;color:#222;font-weight:600;font-size:0.9rem;box-shadow:2px 2px 5px rgba(0,0,0,0.06);">Agustín Velásquez <span style="background:#e8a000;color:#fff;font-size:0.65rem;font-weight:700;padding:1px 6px;border-radius:10px;vertical-align:middle;">SOS</span><div style="color:#D71920;font-size:0.75rem;font-weight:400;margin-top:5px;">Ver perfil →</div></a>
 
+<a href="tutores/tutor15/" style="display:block;background:#fff;border:1px solid #e0e0e0;border-left:4px solid #D71920;border-radius:6px;padding:14px 16px;text-decoration:none;color:#222;font-weight:600;font-size:0.9rem;box-shadow:2px 2px 5px rgba(0,0,0,0.06);">Luis Briceño<div style="color:#D71920;font-size:0.75rem;font-weight:400;margin-top:5px;">Ver perfil →</div></a>
+
 </div>
