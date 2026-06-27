@@ -158,6 +158,7 @@ nav:
           - Intro a la Economía:
               - Inicio: tutorias/bach/intro-economia/index.md
               - Francisco Ulloa: tutorias/bach/intro-economia/tutores/tutor1.md
+              - Agustín Velásquez: tutorias/bach/intro-economia/tutores/tutor2.md
   - Sobre nosotros: about.md
 plugins:
   - search
