@@ -14,7 +14,10 @@ Contenido del ramo próximamente disponible.
 
 ## Tutores disponibles
 
-<!-- Sin tutores asignados en 2026.2 (ver listado). Ramo fuera del nav en mkdocs.yml, ficha conservada sin borrar.
+<div style="background:#fff8e6;border-left:4px solid #e8a000;border-radius:0 6px 6px 0;padding:10px 16px;margin:0.2rem 0 1.4rem 0;font-size:0.85rem;color:#7a5900;">
+  ⏸️ <strong>Inactivo este semestre</strong> — Este ramo no tiene círculos de aprendizaje activos en 2026.2. Se conserva el perfil y material de los tutores que lo dictaron el semestre pasado como referencia.
+</div>
+
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(185px,1fr));gap:0.9rem;margin-top:0.8rem;">
 
 <a href="tutores/tutor1/" style="display:block;background:#fff;border:1px solid #e0e0e0;border-left:4px solid #3d0709;border-radius:6px;padding:14px 16px;text-decoration:none;color:#222;font-weight:600;font-size:0.9rem;box-shadow:2px 2px 5px rgba(0,0,0,0.06);">Sebastián Lorca<div style="color:#3d0709;font-size:0.75rem;font-weight:400;margin-top:5px;">Ver perfil →</div></a>
@@ -22,4 +25,3 @@ Contenido del ramo próximamente disponible.
 <a href="tutores/tutor2/" style="display:block;background:#fff;border:1px solid #e0e0e0;border-left:4px solid #3d0709;border-radius:6px;padding:14px 16px;text-decoration:none;color:#222;font-weight:600;font-size:0.9rem;box-shadow:2px 2px 5px rgba(0,0,0,0.06);">Sahory Vera<div style="color:#3d0709;font-size:0.75rem;font-weight:400;margin-top:5px;">Ver perfil →</div></a>
 
 </div>
--->

@@ -187,32 +187,29 @@ nav:
               - Inicio: tutorias/icg/introduccion-economia/index.md
               - Agustín Velásquez: tutorias/icg/introduccion-economia/tutores/tutor1.md
       - Administración Pública (AP):
-          # Matemáticas I: sin tutores en 2026.2 (Simón Castro pasó a Matemáticas II). Ramo completo comentado, no borrado.
-          #- Matemáticas I:
-          #    - Inicio: tutorias/ap/matematicas-1/index.md
-          #    - Simón Castro: tutorias/ap/matematicas-1/tutores/tutor1.md
+          - Matemáticas I (inactivo 2026.2):
+              - Inicio: tutorias/ap/matematicas-1/index.md
+              - Simón Castro: tutorias/ap/matematicas-1/tutores/tutor1.md
           - Matemáticas II:
               - Inicio: tutorias/ap/matematicas-2/index.md
               - Simón Castro: tutorias/ap/matematicas-2/tutores/tutor1.md
-          # Macroeconomía I: sin tutores en 2026.2. Ramo completo comentado, no borrado.
-          #- Macroeconomía I:
-          #    - Inicio: tutorias/ap/macroeconomia-1/index.md
-          #    - Simón Castro: tutorias/ap/macroeconomia-1/tutores/tutor1.md
-          # Introducción a la Ciencia Política: sin tutores en 2026.2. Ramo completo comentado, no borrado.
-          #- Introducción a la Ciencia Política:
-          #    - Inicio: tutorias/ap/ciencia-politica/index.md
-          #    - Simón Castro: tutorias/ap/ciencia-politica/tutores/tutor1.md
-      # Auditoría (AUDI): sin tutores asignados en 2026.2 (ver listado). Rama completa comentada, no borrada.
-      #- Matemáticas I:
-      #- Inicio: tutorias/audi/matematicas-1/index.md
-      # Sebastián Lorca: tutorias/audi/matematicas-1/tutores/tutor1.md  # sale 2026.2
-      # Sahory Vera: tutorias/audi/matematicas-1/tutores/tutor2.md  # sale 2026.2
-      #- Principios de Contabilidad:
-      #- Inicio: tutorias/audi/principios-contabilidad/index.md
-      # Gonzalo Urueta: tutorias/audi/principios-contabilidad/tutores/tutor1.md  # sale 2026.2
-      #- Derecho Tributario:
-      #- Inicio: tutorias/audi/derecho-tributario/index.md
-      # Vicente Soto: tutorias/audi/derecho-tributario/tutores/tutor1.md  # sale 2026.2
+          - Macroeconomía I (inactivo 2026.2):
+              - Inicio: tutorias/ap/macroeconomia-1/index.md
+              - Simón Castro: tutorias/ap/macroeconomia-1/tutores/tutor1.md
+          - Introducción a la Ciencia Política (inactivo 2026.2):
+              - Inicio: tutorias/ap/ciencia-politica/index.md
+              - Simón Castro: tutorias/ap/ciencia-politica/tutores/tutor1.md
+      - Auditoría (AUDI) — inactiva 2026.2:
+          - Matemáticas I (inactivo 2026.2):
+              - Inicio: tutorias/audi/matematicas-1/index.md
+              - Sebastián Lorca: tutorias/audi/matematicas-1/tutores/tutor1.md
+              - Sahory Vera: tutorias/audi/matematicas-1/tutores/tutor2.md
+          - Principios de Contabilidad (inactivo 2026.2):
+              - Inicio: tutorias/audi/principios-contabilidad/index.md
+              - Gonzalo Urueta: tutorias/audi/principios-contabilidad/tutores/tutor1.md
+          - Derecho Tributario (inactivo 2026.2):
+              - Inicio: tutorias/audi/derecho-tributario/index.md
+              - Vicente Soto: tutorias/audi/derecho-tributario/tutores/tutor1.md
       - Bachillerato (BACH):
           - Intro a la Economía:
               - Inicio: tutorias/bach/intro-economia/index.md
