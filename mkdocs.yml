@@ -32,133 +32,200 @@ nav:
       - Ingeniería Comercial (ICO):
           - Matemáticas I:
               - Inicio: tutorias/matematicas-1/index.md
-              - Marcela Robles: tutorias/matematicas-1/tutores/tutor2.md
-              - Abraham Huerta: tutorias/matematicas-1/tutores/tutor3.md
-              - Camila González: tutorias/matematicas-1/tutores/tutor4.md
+              # Marcela Robles: tutorias/matematicas-1/tutores/tutor2.md  # no dicta este ramo en 2026.2
+              # Abraham Huerta: tutorias/matematicas-1/tutores/tutor3.md  # no dicta este ramo en 2026.2
+              # Camila González: tutorias/matematicas-1/tutores/tutor4.md  # sale 2026.2
               - Francisco Ulloa: tutorias/matematicas-1/tutores/tutor6.md
               - Maximiliano Stuardo: tutorias/matematicas-1/tutores/tutor9.md
               - Sebastián Lecaros: tutorias/matematicas-1/tutores/tutor10.md
               - Antonia Moreira: tutorias/matematicas-1/tutores/tutor11.md
-              - Melannie Espinoza: tutorias/matematicas-1/tutores/tutor12.md
+              # Melannie Espinoza: tutorias/matematicas-1/tutores/tutor12.md  # sale 2026.2
               - Catalina Valdevenito: tutorias/matematicas-1/tutores/tutor13.md
-              - Agustín Velásquez (SOS): tutorias/matematicas-1/tutores/tutor14.md
+              - Agustín Velásquez: tutorias/matematicas-1/tutores/tutor14.md
               - Luis Briceño: tutorias/matematicas-1/tutores/tutor15.md
+              - Melissa Borgoño: tutorias/matematicas-1/tutores/tutor16.md
           - Matemáticas II:
               - Inicio: tutorias/matematicas-2/index.md
               - Francisco Ulloa: tutorias/matematicas-2/tutores/tutor2.md
               - Luis Briceño: tutorias/matematicas-2/tutores/tutor3.md
-              - Camila González: tutorias/matematicas-2/tutores/tutor4.md
+              # Camila González: tutorias/matematicas-2/tutores/tutor4.md  # sale 2026.2
               - Dhalmar Ovando: tutorias/matematicas-2/tutores/tutor5.md
-              - Antonia Soto: tutorias/matematicas-2/tutores/tutor9.md
+              # Antonia Soto: tutorias/matematicas-2/tutores/tutor9.md  # no dicta este ramo en 2026.2 (queda solo en ICG)
               - Sebastián Lecaros: tutorias/matematicas-2/tutores/tutor10.md
               - Catalina Valdevenito: tutorias/matematicas-2/tutores/tutor11.md
-              - Agustín Velásquez (SOS): tutorias/matematicas-2/tutores/tutor12.md
+              - Agustín Velásquez: tutorias/matematicas-2/tutores/tutor12.md
+              - Maximiliano Stuardo: tutorias/matematicas-2/tutores/tutor13.md
+              - Melissa Borgoño: tutorias/matematicas-2/tutores/tutor14.md
+              - Elias Fuentes: tutorias/matematicas-2/tutores/tutor15.md
           - Matemáticas III:
               - Inicio: tutorias/matematicas-3/index.md
               - Dhalmar Ovando: tutorias/matematicas-3/tutores/tutor1.md
-              - Luis Briceño: tutorias/matematicas-3/tutores/tutor2.md
+              # Luis Briceño: tutorias/matematicas-3/tutores/tutor2.md  # no dicta este ramo en 2026.2
               - Abraham Huerta: tutorias/matematicas-3/tutores/tutor3.md
+              - Antonia Moreira: tutorias/matematicas-3/tutores/tutor4.md
+              - Catalina Valdevenito: tutorias/matematicas-3/tutores/tutor5.md
+              - Elias Fuentes: tutorias/matematicas-3/tutores/tutor6.md
           - Contabilidad I:
               - Inicio: tutorias/contabilidad-1/index.md
-              - Álvaro Gatica: tutorias/contabilidad-1/tutores/tutor3.md
-              - Camila Pastén (SOS): tutorias/contabilidad-1/tutores/tutor4.md
+              # Álvaro Gatica: tutorias/contabilidad-1/tutores/tutor3.md  # no dicta este ramo en 2026.2
+              # Camila Pastén: tutorias/contabilidad-1/tutores/tutor4.md  # sale 2026.2
               - Emilio Hagar: tutorias/contabilidad-1/tutores/tutor5.md
           - Contabilidad II:
               - Inicio: tutorias/contabilidad-2/index.md
               - Dominique Jouvhome: tutorias/contabilidad-2/tutores/tutor1.md
-              - Camila Pastén (SOS): tutorias/contabilidad-2/tutores/tutor2.md
+              # Camila Pastén: tutorias/contabilidad-2/tutores/tutor2.md  # sale 2026.2
           - Estadística I:
               - Inicio: tutorias/estadistica-1/index.md
-              - Martina Ramirez: tutorias/estadistica-1/tutores/tutor1.md
-              - Camila González: tutorias/estadistica-1/tutores/tutor3.md
+              # Martina Ramirez: tutorias/estadistica-1/tutores/tutor1.md  # sale 2026.2
+              # Camila González: tutorias/estadistica-1/tutores/tutor3.md  # sale 2026.2
+              - Elias Fuentes: tutorias/estadistica-1/tutores/tutor4.md
           - Estadística II:
               - Inicio: tutorias/estadistica-2/index.md
-              - Martina Ramirez: tutorias/estadistica-2/tutores/tutor1.md
-              - Abraham Huerta: tutorias/estadistica-2/tutores/tutor2.md
+              # Martina Ramirez: tutorias/estadistica-2/tutores/tutor1.md  # sale 2026.2
+              # Abraham Huerta: tutorias/estadistica-2/tutores/tutor2.md  # no dicta este ramo en 2026.2
               - Catalina Martinez: tutorias/estadistica-2/tutores/tutor3.md
           - Finanzas I:
               - Inicio: tutorias/finanzas-1/index.md
-              - Álvaro Gatica: tutorias/finanzas-1/tutores/tutor1.md
+              # Álvaro Gatica: tutorias/finanzas-1/tutores/tutor1.md  # no dicta este ramo en 2026.2
               - Luis Briceño: tutorias/finanzas-1/tutores/tutor2.md
               - Daniel Cornejo: tutorias/finanzas-1/tutores/tutor3.md
           - Macroeconomía I:
               - Inicio: tutorias/macroeconomia-1/index.md
               - Joakina Quezada: tutorias/macroeconomia-1/tutores/tutor3.md
-              - Dhalmar Ovando: tutorias/macroeconomia-1/tutores/tutor4.md
+              # Dhalmar Ovando: tutorias/macroeconomia-1/tutores/tutor4.md  # no dicta este ramo en 2026.2
               - Marcela Robles: tutorias/macroeconomia-1/tutores/tutor5.md
           - Macroeconomía II:
               - Inicio: tutorias/macroeconomia-2/index.md
               - Abraham Huerta: tutorias/macroeconomia-2/tutores/tutor3.md
+              - Joakina Quezada: tutorias/macroeconomia-2/tutores/tutor4.md
+              - Marcela Robles: tutorias/macroeconomia-2/tutores/tutor5.md
           - Microeconomía I:
               - Inicio: tutorias/microeconomia-1/index.md
-              - Francisco Ulloa: tutorias/microeconomia-1/tutores/tutor1.md
+              # Francisco Ulloa: tutorias/microeconomia-1/tutores/tutor1.md  # no dicta este ramo en 2026.2
               - Joakina Quezada: tutorias/microeconomia-1/tutores/tutor3.md
               - Maximiliano Stuardo: tutorias/microeconomia-1/tutores/tutor4.md
               - Sebastián Lecaros: tutorias/microeconomia-1/tutores/tutor5.md
-              - Antonia Moreira: tutorias/microeconomia-1/tutores/tutor6.md
-              - Catalina Valdevenito: tutorias/microeconomia-1/tutores/tutor7.md
-              - Agustín Velásquez (SOS): tutorias/microeconomia-1/tutores/tutor8.md
+              # Antonia Moreira: tutorias/microeconomia-1/tutores/tutor6.md  # no dicta este ramo en 2026.2
+              # Catalina Valdevenito: tutorias/microeconomia-1/tutores/tutor7.md  # no dicta este ramo en 2026.2
+              # Agustín Velásquez: tutorias/microeconomia-1/tutores/tutor8.md  # no dicta este ramo en 2026.2
           - Microeconomía II:
               - Inicio: tutorias/microeconomia-2/index.md
               - Luis Briceño: tutorias/microeconomia-2/tutores/tutor1.md
               - Maximiliano Stuardo: tutorias/microeconomia-2/tutores/tutor3.md
-              - Abraham Huerta: tutorias/microeconomia-2/tutores/tutor4.md
+              # Abraham Huerta: tutorias/microeconomia-2/tutores/tutor4.md  # no dicta este ramo en 2026.2
               - Sebastián Lecaros: tutorias/microeconomia-2/tutores/tutor5.md
+              - Joakina Quezada: tutorias/microeconomia-2/tutores/tutor6.md
           - Econometría I:
               - Inicio: tutorias/econometria-1/index.md
               - Álvaro Barraza: tutorias/econometria-1/tutores/tutor1.md
-              - Sofía Urzúa (2do sem.): tutorias/econometria-1/tutores/tutor2.md
+              # Sofía Urzúa: tutorias/econometria-1/tutores/tutor2.md  # no dicta este ramo en 2026.2
+              - Maximiliano Stuardo: tutorias/econometria-1/tutores/tutor3.md
+              - Joakina Quezada: tutorias/econometria-1/tutores/tutor4.md
+              - Luis Pizarro: tutorias/econometria-1/tutores/tutor5.md
+          - Econometría II:
+              - Inicio: tutorias/econometria-2/index.md
+              - Luis Pizarro: tutorias/econometria-2/tutores/tutor1.md
+          - Crecimiento Económico:
+              - Inicio: tutorias/crecimiento-economico/index.md
+              - Luis Pizarro: tutorias/crecimiento-economico/tutores/tutor1.md
+          - Ciencia de Datos:
+              - Inicio: tutorias/ciencia-datos/index.md
+              - Daniel Cornejo: tutorias/ciencia-datos/tutores/tutor1.md
+              - Álvaro Barraza: tutorias/ciencia-datos/tutores/tutor2.md
+          - Finanzas II:
+              - Inicio: tutorias/finanzas-2/index.md
+              - Álvaro Gatica: tutorias/finanzas-2/tutores/tutor1.md
+              - Dhalmar Ovando: tutorias/finanzas-2/tutores/tutor2.md
           - Programación:
               - Inicio: tutorias/programacion/index.md
-              - Martina Ramirez: tutorias/programacion/tutores/tutor1.md
+              # Martina Ramirez: tutorias/programacion/tutores/tutor1.md  # sale 2026.2
               - Maximiliano Stuardo: tutorias/programacion/tutores/tutor2.md
-              - Camila Pastén (SOS): tutorias/programacion/tutores/tutor3.md
+              # Camila Pastén: tutorias/programacion/tutores/tutor3.md  # sale 2026.2
               - Daniel Cornejo: tutorias/programacion/tutores/tutor6.md
-              - Álvaro Barraza: tutorias/programacion/tutores/tutor7.md
+              # Álvaro Barraza: tutorias/programacion/tutores/tutor7.md  # no dicta este ramo en 2026.2
               - Agustín Velásquez: tutorias/programacion/tutores/tutor8.md
-              - Sofía Urzúa (2do sem.): tutorias/programacion/tutores/tutor9.md
+              - Sofía Urzúa: tutorias/programacion/tutores/tutor9.md
       - Control de Gestión (ICG):
           - Matemáticas I:
               - Inicio: tutorias/icg/matematicas-1/index.md
               - Ignacio Pavéz: tutorias/icg/matematicas-1/tutores/tutor1.md
               - Antonia Moreira: tutorias/icg/matematicas-1/tutores/tutor2.md
-              - Antonia Soto (2do sem.): tutorias/icg/matematicas-1/tutores/tutor3.md
-          - Tecnología de la Información:
+              - Antonia Soto: tutorias/icg/matematicas-1/tutores/tutor3.md
+          - Matemáticas II:
+              - Inicio: tutorias/icg/matematicas-2/index.md
+              - Ignacio Pavéz: tutorias/icg/matematicas-2/tutores/tutor1.md
+              - Antonia Soto: tutorias/icg/matematicas-2/tutores/tutor2.md
+          - Matemáticas III:
+              - Inicio: tutorias/icg/matematicas-3/index.md
+              - Antonia Soto: tutorias/icg/matematicas-3/tutores/tutor1.md
+          - Tecnología de Información para los Negocios I y II:
               - Inicio: tutorias/icg/tecnologia-informacion/index.md
               - Ignacio Pavéz: tutorias/icg/tecnologia-informacion/tutores/tutor1.md
+              - Agustín Velásquez: tutorias/icg/tecnologia-informacion/tutores/tutor2.md
           - Principios de Economía:
               - Inicio: tutorias/icg/principios-economia/index.md
               - Antonia Moreira: tutorias/icg/principios-economia/tutores/tutor1.md
-              - Antonia Soto (2do sem.): tutorias/icg/principios-economia/tutores/tutor2.md
+              - Antonia Soto: tutorias/icg/principios-economia/tutores/tutor2.md
+              - Ignacio Pavéz: tutorias/icg/principios-economia/tutores/tutor3.md
           - Introducción a la Microeconomía:
               - Inicio: tutorias/icg/intro-microeconomia/index.md
-              - Antonia Soto (2do sem.): tutorias/icg/intro-microeconomia/tutores/tutor1.md
+              - Antonia Soto: tutorias/icg/intro-microeconomia/tutores/tutor1.md
+              - Luis Briceño: tutorias/icg/intro-microeconomia/tutores/tutor2.md
+              - Antonia Moreira: tutorias/icg/intro-microeconomia/tutores/tutor3.md
+          - Contabilidad I:
+              - Inicio: tutorias/icg/contabilidad-1/index.md
+              - Antonia Moreira: tutorias/icg/contabilidad-1/tutores/tutor1.md
+              - Antonia Soto: tutorias/icg/contabilidad-1/tutores/tutor2.md
+              - Agustín Velásquez: tutorias/icg/contabilidad-1/tutores/tutor3.md
+          - Economía de la Empresa y la Información:
+              - Inicio: tutorias/icg/economia-empresa-informacion/index.md
+              - Antonia Soto: tutorias/icg/economia-empresa-informacion/tutores/tutor1.md
+          - Fundamentos de Costo:
+              - Inicio: tutorias/icg/fundamentos-costo/index.md
+              - Antonia Soto: tutorias/icg/fundamentos-costo/tutores/tutor1.md
+          - Introducción a la Economía:
+              - Inicio: tutorias/icg/introduccion-economia/index.md
+              - Agustín Velásquez: tutorias/icg/introduccion-economia/tutores/tutor1.md
       - Administración Pública (AP):
-          - Matemáticas I:
-              - Inicio: tutorias/ap/matematicas-1/index.md
-              - Simón Castro: tutorias/ap/matematicas-1/tutores/tutor1.md
-          - Macroeconomía I:
-              - Inicio: tutorias/ap/macroeconomia-1/index.md
-              - Simón Castro: tutorias/ap/macroeconomia-1/tutores/tutor1.md
-          - Introducción a la Ciencia Política:
-              - Inicio: tutorias/ap/ciencia-politica/index.md
-              - Simón Castro: tutorias/ap/ciencia-politica/tutores/tutor1.md
-      - Auditoría (AUDI):
-          - Matemáticas I:
-              - Inicio: tutorias/audi/matematicas-1/index.md
-              - Sebastián Lorca: tutorias/audi/matematicas-1/tutores/tutor1.md
-              - Sahory Vera: tutorias/audi/matematicas-1/tutores/tutor2.md
-          - Principios de Contabilidad:
-              - Inicio: tutorias/audi/principios-contabilidad/index.md
-              - Gonzalo Urueta: tutorias/audi/principios-contabilidad/tutores/tutor1.md
-          - Derecho Tributario:
-              - Inicio: tutorias/audi/derecho-tributario/index.md
-              - Vicente Soto: tutorias/audi/derecho-tributario/tutores/tutor1.md
+          # Matemáticas I: sin tutores en 2026.2 (Simón Castro pasó a Matemáticas II). Ramo completo comentado, no borrado.
+          #- Matemáticas I:
+          #    - Inicio: tutorias/ap/matematicas-1/index.md
+          #    - Simón Castro: tutorias/ap/matematicas-1/tutores/tutor1.md
+          - Matemáticas II:
+              - Inicio: tutorias/ap/matematicas-2/index.md
+              - Simón Castro: tutorias/ap/matematicas-2/tutores/tutor1.md
+          # Macroeconomía I: sin tutores en 2026.2. Ramo completo comentado, no borrado.
+          #- Macroeconomía I:
+          #    - Inicio: tutorias/ap/macroeconomia-1/index.md
+          #    - Simón Castro: tutorias/ap/macroeconomia-1/tutores/tutor1.md
+          # Introducción a la Ciencia Política: sin tutores en 2026.2. Ramo completo comentado, no borrado.
+          #- Introducción a la Ciencia Política:
+          #    - Inicio: tutorias/ap/ciencia-politica/index.md
+          #    - Simón Castro: tutorias/ap/ciencia-politica/tutores/tutor1.md
+      # Auditoría (AUDI): sin tutores asignados en 2026.2 (ver listado). Rama completa comentada, no borrada.
+      #- Matemáticas I:
+      #- Inicio: tutorias/audi/matematicas-1/index.md
+      # Sebastián Lorca: tutorias/audi/matematicas-1/tutores/tutor1.md  # sale 2026.2
+      # Sahory Vera: tutorias/audi/matematicas-1/tutores/tutor2.md  # sale 2026.2
+      #- Principios de Contabilidad:
+      #- Inicio: tutorias/audi/principios-contabilidad/index.md
+      # Gonzalo Urueta: tutorias/audi/principios-contabilidad/tutores/tutor1.md  # sale 2026.2
+      #- Derecho Tributario:
+      #- Inicio: tutorias/audi/derecho-tributario/index.md
+      # Vicente Soto: tutorias/audi/derecho-tributario/tutores/tutor1.md  # sale 2026.2
       - Bachillerato (BACH):
           - Intro a la Economía:
               - Inicio: tutorias/bach/intro-economia/index.md
               - Francisco Ulloa: tutorias/bach/intro-economia/tutores/tutor1.md
-              - Agustín Velásquez: tutorias/bach/intro-economia/tutores/tutor2.md
+              # Agustín Velásquez: tutorias/bach/intro-economia/tutores/tutor2.md  # pasa a Introducción a la Economía (ICG)
+          - Introducción a las Matemáticas:
+              - Inicio: tutorias/bach/intro-matematicas/index.md
+              - Catalina Valdevenito: tutorias/bach/intro-matematicas/tutores/tutor1.md
+              - Ignacio Pavéz: tutorias/bach/intro-matematicas/tutores/tutor2.md
+              - Constanza Contreras: tutorias/bach/intro-matematicas/tutores/tutor3.md
+          - Tecnología de la Información:
+              - Inicio: tutorias/bach/tecnologia-informacion/index.md
+              - Sofía Urzúa: tutorias/bach/tecnologia-informacion/tutores/tutor1.md
   - Sobre nosotros: about.md
 plugins:
   - search

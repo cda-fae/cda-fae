@@ -16,18 +16,10 @@ Contenido del ramo próximamente disponible.
 
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(185px,1fr));gap:0.9rem;margin-top:0.8rem;">
 
-<a href="tutores/tutor1/" style="display:block;background:#fff;border:1px solid #e0e0e0;border-left:4px solid #D71920;border-radius:6px;padding:14px 16px;text-decoration:none;color:#222;font-weight:600;font-size:0.9rem;box-shadow:2px 2px 5px rgba(0,0,0,0.06);">Francisco Ulloa<div style="color:#D71920;font-size:0.75rem;font-weight:400;margin-top:5px;">Ver perfil →</div></a>
-
 <a href="tutores/tutor3/" style="display:block;background:#fff;border:1px solid #e0e0e0;border-left:4px solid #D71920;border-radius:6px;padding:14px 16px;text-decoration:none;color:#222;font-weight:600;font-size:0.9rem;box-shadow:2px 2px 5px rgba(0,0,0,0.06);">Joakina Quezada<div style="color:#D71920;font-size:0.75rem;font-weight:400;margin-top:5px;">Ver perfil →</div></a>
 
 <a href="tutores/tutor4/" style="display:block;background:#fff;border:1px solid #e0e0e0;border-left:4px solid #D71920;border-radius:6px;padding:14px 16px;text-decoration:none;color:#222;font-weight:600;font-size:0.9rem;box-shadow:2px 2px 5px rgba(0,0,0,0.06);">Maximiliano Stuardo<div style="color:#D71920;font-size:0.75rem;font-weight:400;margin-top:5px;">Ver perfil →</div></a>
 
 <a href="tutores/tutor5/" style="display:block;background:#fff;border:1px solid #e0e0e0;border-left:4px solid #D71920;border-radius:6px;padding:14px 16px;text-decoration:none;color:#222;font-weight:600;font-size:0.9rem;box-shadow:2px 2px 5px rgba(0,0,0,0.06);">Sebastián Lecaros<div style="color:#D71920;font-size:0.75rem;font-weight:400;margin-top:5px;">Ver perfil →</div></a>
-
-<a href="tutores/tutor6/" style="display:block;background:#fff;border:1px solid #e0e0e0;border-left:4px solid #D71920;border-radius:6px;padding:14px 16px;text-decoration:none;color:#222;font-weight:600;font-size:0.9rem;box-shadow:2px 2px 5px rgba(0,0,0,0.06);">Antonia Moreira<div style="color:#D71920;font-size:0.75rem;font-weight:400;margin-top:5px;">Ver perfil →</div></a>
-
-<a href="tutores/tutor7/" style="display:block;background:#fff;border:1px solid #e0e0e0;border-left:4px solid #D71920;border-radius:6px;padding:14px 16px;text-decoration:none;color:#222;font-weight:600;font-size:0.9rem;box-shadow:2px 2px 5px rgba(0,0,0,0.06);">Catalina Valdevenito<div style="color:#D71920;font-size:0.75rem;font-weight:400;margin-top:5px;">Ver perfil →</div></a>
-
-<a href="tutores/tutor8/" style="display:block;background:#fff;border:1px solid #e0e0e0;border-left:4px solid #D71920;border-radius:6px;padding:14px 16px;text-decoration:none;color:#222;font-weight:600;font-size:0.9rem;box-shadow:2px 2px 5px rgba(0,0,0,0.06);">Agustín Velásquez <span style="background:#e8a000;color:#fff;font-size:0.65rem;font-weight:700;padding:1px 6px;border-radius:10px;vertical-align:middle;">SOS</span><div style="color:#D71920;font-size:0.75rem;font-weight:400;margin-top:5px;">Ver perfil →</div></a>
 
 </div>

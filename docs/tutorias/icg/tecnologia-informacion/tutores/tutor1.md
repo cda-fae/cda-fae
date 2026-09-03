@@ -1,4 +1,4 @@
-# Ignacio Pavéz — Tecnología de la Información
+# Ignacio Pavéz — Tecnología de Información para los Negocios I y II
 
 **Nombre:** Ignacio Pavez Romero
 

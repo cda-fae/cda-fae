@@ -14,8 +14,10 @@ Contenido del ramo próximamente disponible.
 
 ## Tutores disponibles
 
+<!-- Sin tutores asignados en 2026.2 (ver listado). Ramo fuera del nav en mkdocs.yml, ficha conservada sin borrar.
 <div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(185px,1fr));gap:0.9rem;margin-top:0.8rem;">
 
 <a href="tutores/tutor1/" style="display:block;background:#fff;border:1px solid #e0e0e0;border-left:4px solid #3d0709;border-radius:6px;padding:14px 16px;text-decoration:none;color:#222;font-weight:600;font-size:0.9rem;box-shadow:2px 2px 5px rgba(0,0,0,0.06);">Vicente Soto<div style="color:#3d0709;font-size:0.75rem;font-weight:400;margin-top:5px;">Ver perfil →</div></a>
 
 </div>
+-->
